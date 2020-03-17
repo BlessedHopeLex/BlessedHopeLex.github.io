@@ -1,0 +1,132 @@
+html, body { 
+	margin: 0; 
+	padding: 0; 
+	border: 0;
+	height: 105%;
+	font-size: 14pt;
+	font-family: Arial, Helvetica;
+	color: #222222;
+}
+
+body {
+	background: linear-gradient(rgba(0,93,170, 1) 20%, whitesmoke);
+	/* background: #005DAA; */
+	overflow: auto;
+}
+
+#header {
+	color: white;
+	height: 20%;
+}
+
+#content { 
+	/* min-height: 75%; */
+	height: 70%;
+}
+
+.container {
+	margin: 0 12.5% 0 12.5%;
+	height: 89.25%;
+}
+
+#footer { 
+	background: #222222;
+	color: whitesmoke;
+	height: 80%;
+}
+
+#menu {
+	margin: 0 0 2% 0;
+	padding: .75em 7% .75em 7%;
+	background: whitesmoke;
+}
+
+#menu-inner {
+	/* margin-left: auto;
+	margin-right: auto;
+	width: 100%; */
+	text-align: center;
+}
+
+.menuitem {
+	margin-right: 2.5%;
+	margin-left: 2.5%;
+	padding: .70em 3% .75em 3%;
+	text-decoration: none;
+	/* background-color: #fff1d0; */
+	color: #222222;
+}
+
+a.menuitem:link{
+
+}
+
+a.menuitem:visited{
+
+}
+
+.menuitem:hover {
+	background: #ffe7a7;
+	/* background: rgba(0,93,170, .95); */
+	color: darkgray;
+}
+
+a.menuitem:active{
+
+}
+
+#largebox {
+	/* background-color: whitesmoke; */
+	padding: 0% 2% 2% 2%;
+	height: 70%;
+}
+
+div#background {
+	/* width: 50%; */
+	height: 100%;
+	background: url("../Images/main-home.jpg") no-repeat;
+	border: 2px solid #000;
+	background-size: 100%;
+}
+
+#smallbox-first {
+	margin-right: 5%;
+	margin-left: 9%;
+}
+
+#smallbox-middle {
+	margin-right:5%;
+	margin-left: 5%;
+}
+
+#smallbox-last {
+	margin-right: 9%;
+	margin-left: 5%;
+}
+
+.smallbox {
+	/* height: 10%; */
+	margin-top: 2%;
+	margin-bottom: 2%;
+	width: 20%;
+	/* background-color: rgba(245,245,245,.85); */
+	background-color: #fff1d0;
+	/* background-color: lightsteelblue; */
+	display: inline-block;
+	min-width: 200px;
+}
+
+.smallbox:hover {
+	background: #ffe7a7;
+	/* background: rgba(0,93,170, .95); */
+	color: darkgray;
+	cursor: pointer;
+}
+
+.smallbox-inner {
+	margin: 1em 0 1em 0;
+	font-family: Helvetica;
+	font-size: 125%;
+	text-align: center;
+}
+
