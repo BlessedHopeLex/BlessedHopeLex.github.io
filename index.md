@@ -65,7 +65,7 @@ Christ showed His great love for us when He died on the cross to pay our sin deb
 For whosoever shall call upon the name of the Lord shall be saved. (Romans 10:13)
 Everlasting life is a gift purchased by the blood of Jesus and offered freely to those who call upon Him by faith. Let us help you word a prayer. (Realize that what saves is your faith in Jesus Christ, not saying mere words.)
 
-If you will trust Jesus Christ as your Savior, pray a simple prayer. Prayer is simply talking to God. Tell Him that you know you are a sinner and that you deserve to pay your own sin debt. Acknowledge that Jesus died for you to pay the debt you owe, Today, as best as you know how, you will trust Him as your Savior. You will depend on Him from this moment on for your salvation. Ask God to help you live for Him and be a good Christian.
+If you will trust Jesus Christ as your Savior, pray a simple prayer. Prayer is simply talking to God. Admit to Him that you know you are a sinner and that you deserve to pay your own sin debt. Acknowledge that Jesus died for you to pay the debt you owe. Today, as best as you know how, trust Him as your Savior. Tell Him you will depend on Him from this moment on for your salvation. Ask God to help you live for Him and be a good Christian.
 
 If you have trusted Jesus Christ to save you, please let us know by e-mail or you can call (859) 621-8569. We'd like to be sure you have a Bible and help you grow as a new Christian.
 
