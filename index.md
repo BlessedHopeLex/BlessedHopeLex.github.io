@@ -1,4 +1,4 @@
-We're glad that you're interested in visiting our church! We know you have questions, so here's how our page works: all you have to do is scroll down, and we will answer your when, where, who, why, and what.
+We're glad that you're interested in visiting our church! We know you have questions, so here's how our page works: all you have to do is scroll down, and we will answer your [When](#visitor-information---when), [Where](#directions---where), [Who](#our-pastor---who), [Why](#salvation---why), and [What](#we-believe---what).
 
 
 # Visitor Information - When
