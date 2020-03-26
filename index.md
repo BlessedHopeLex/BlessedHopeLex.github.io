@@ -1,3 +1,5 @@
+<script type="text/javascript" src="https://av1611.com/verseclick/verseclick.js"></script>
+
 We're glad that you're interested in visiting our church! We know you have questions, so here's how our page works: all you have to do is scroll down, and we will answer your [When](#visitor-information---when), [Where](#directions---where), [Who](#our-pastor---who), [Why](#salvation---why), and [What](#we-believe---what).
 
 
