@@ -55,7 +55,7 @@ For all have sinned, and come short of the glory of God. (Romans 3:23)
 None of us is good enough to go to Heaven on our own merit. Because we are sinners, no matter how much good we do, we always fall short.
 
 2. Realize the penalty for sin. 
-For the wages of sin is death... (Romans 6:23a)
+For the wages of sin is death... (Romans 6:23)
 Just as there are wages for good, there is punishment for wrong. The penalty for our sin is eternal death in a place called Hell.
 
 3. Believe Christ died for you. 
@@ -63,7 +63,7 @@ But God commendeth his love toward us, in that, while we were yet sinners, Chris
 Christ showed His great love for us when He died on the cross to pay our sin debt.
 
 4. Trust Christ alone as your Saviour. 
-...but the gift of God is eternal life through Jesus Christ our Lord. (Romans 6:23b)
+...but the gift of God is eternal life through Jesus Christ our Lord. (Romans 6:23)
 For whosoever shall call upon the name of the Lord shall be saved. (Romans 10:13)
 Everlasting life is a gift purchased by the blood of Jesus and offered freely to those who call upon Him by faith. Let us help you word a prayer. (Realize that what saves is your faith in Jesus Christ, not saying mere words.)
 
@@ -92,7 +92,7 @@ We believe that all scripture is given by inspiration of God (2 Tim. 3:16) and t
 
 
 ### Salvation Comes by Grace Through Faith
-We believe that salvation is a free gift of God (Eph. 2:8,9) offered to man by His grace and received by personal faith in the Lord Jesus Christ. It requires neither culture, character, religion, nor good works to get it or secure it. We believe every born again child of God is eternally secure in Christ with a forever sealed salvation (Eph. 1:13). Salvation will be evident through the fruit of repentance, faith, and newness of life (2 Cor. 5:17).
+We believe that salvation is a free gift of God (Eph. 2:8-9) offered to man by His grace and received by personal faith in the Lord Jesus Christ. It requires neither culture, character, religion, nor good works to get it or secure it. We believe every born again child of God is eternally secure in Christ with a forever sealed salvation (Eph. 1:13). Salvation will be evident through the fruit of repentance, faith, and newness of life (2 Cor. 5:17).
  
 
 
@@ -107,7 +107,7 @@ We believe that Jesus Christ is God (Jn. 1:1-3), He was born of a virgin (Is. 7:
 
 
 ### The Local Church
-We believe the local church to be a body of believers who come together in obedience to Christ to carry out the dictates of the New Testament (Mt. 28:19, 20). The local church should be self-governing and independent from any interference of hierarchy, individuals, and organizations. Believers should assemble together locally in order to be edified in the word of God and to serve the Lord (Acts 11:23-26). The proper order for the local church is laid out especially in the Pastoral Epistles (1Tim. 3:15). Blessed Hope Baptist Church is an independent Baptist Church.
+We believe the local church to be a body of believers who come together in obedience to Christ to carry out the dictates of the New Testament (Mt. 28:19-20). The local church should be self-governing and independent from any interference of hierarchy, individuals, and organizations. Believers should assemble together locally in order to be edified in the word of God and to serve the Lord (Acts 11:23-26). The proper order for the local church is laid out especially in the Pastoral Epistles (1Tim. 3:15). Blessed Hope Baptist Church is an independent Baptist Church.
  
 
 
@@ -117,7 +117,7 @@ We believe that every believer in the Church Age is baptized by the Holy Spirit 
 
 
 ### Baptism
-We believe in following the Biblical pattern of baptism. Water baptism is only for those who have first believed in Jesus (Acts 8:37). It is full immersion into water symbolizing and identifying with the death, burial, and resurrection of Christ (Mt. 3:16). Baptism will also identify you with the local church. It is obedience to the Lord’s command (Mt. 28:19). Water baptism can in no way impute grace or forgiveness of sins (1Cor. 1:17 & Rom. 4:24).
+We believe in following the Biblical pattern of baptism. Water baptism is only for those who have first believed in Jesus (Acts 8:37). It is full immersion into water symbolizing and identifying with the death, burial, and resurrection of Christ (Mt. 3:16). Baptism will also identify you with the local church. It is obedience to the Lord’s command (Mt. 28:19). Water baptism can in no way impute grace or forgiveness of sins (1Cor. 1:17 and Rom. 4:24).
  
 
 
@@ -127,7 +127,7 @@ We believe the Lord’s Supper (“Communion”) to be a remembrance of what Chr
 
 
 ### Missions
-We believe that the command to give the gospel to the world is clear and unmistakable (Mt. 28:19,20). It is the church’s clear responsibility to carry out this commission by sending forth those whom God has called. The equipping and supply of these missionaries is the sole duty of the church. Missions is the heartbeat of Blessed Hope Baptist Church.
+We believe that the command to give the gospel to the world is clear and unmistakable (Mt. 28:19-20). It is the church’s clear responsibility to carry out this commission by sending forth those whom God has called. The equipping and supply of these missionaries is the sole duty of the church. Missions is the heartbeat of Blessed Hope Baptist Church.
  
 
 
