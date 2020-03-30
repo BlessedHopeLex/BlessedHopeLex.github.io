@@ -2,5 +2,5 @@
 
 {::options parse_block_html="true" /}
 <div class="alert alert-primary" role="alert">
-    In order to promote social isolation, we are currently holding our services online via [Zoom](https://blessedhopelexington.com/zoom).
+In order to promote social isolation, we are currently holding our services online via [Zoom](https://blessedhopelexington.com/zoom).
 </div>
