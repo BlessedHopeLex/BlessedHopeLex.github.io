@@ -6,6 +6,7 @@ The link will open a website, and you will be asked to download the Zoom app (av
 
 Once you have downloaded the app, you can click the link to start the meeting.
 
+{::options parse_block_html="true" /}
 <div class="alert alert-warning" role="alert">
 Please join the meeting muted. Many un-muted microphones can cause interference for other listeners. Feel free to unmute to give prayer requets or ask questions, but please be respectful of the service.
 {: .m-0}
