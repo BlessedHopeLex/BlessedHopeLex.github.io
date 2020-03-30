@@ -1,4 +1,11 @@
 <script type="text/javascript" src="https://av1611.com/verseclick/verseclick.js"></script>
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+{::options parse_block_html="true" /}
+<div class="alert alert-primary" role="alert">
+In order to promote social isolation, we are currently holding our services online via [Zoom](https://blessedhopelexington.com/zoom). Please feel free to join us during normal service hours!
+{: .m-0}
+</div>
 
 We're glad that you're interested in visiting our church! We know you have questions, so here's how our page works: all you have to do is scroll down, and we will answer your [When](#visitor-information---when), [Where](#directions---where), [Who](#our-pastor---who), [Why](#salvation---why), and [What](#we-believe---what).
 
@@ -30,8 +37,11 @@ We also have Wednesday night services starting at 7:00 PM.
 ***
 
 
-[1857 Gayle Dr](https://www.google.com/maps/dir//1857+Gayle+Dr,+Lexington,+KY+40505/@38.0474644,-84.4417119,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x88424562b817215f:0x32e6affec4bbaaf1!2m2!1d-84.4395232!2d38.0474602!3e0)  
-Lexington, Kentucky 40505
+{::options parse_block_html="true" /}
+<div class="alert alert-primary" role="alert">
+In order to promote social isolation, we are currently holding our services online via [Zoom](https://blessedhopelexington.com/zoom). Please feel free to join us during normal service hours!
+{: .m-0}
+</div>
 
 
 # Our Pastor - Who
