@@ -7,10 +7,10 @@ In order to promote social isolation, we are currently holding our services onli
 {: .m-0}
 </div>
 
-We're glad that you're interested in visiting our church! We know you have questions, so here's how our page works: all you have to do is scroll down, and we will answer your [When](#visitor-information---when), [Where](#directions---where), [Who](#our-pastor---who), [Why](#salvation---why), and [What](#we-believe---what).
+We're glad that you're interested in visiting our church! We know you have questions, so here's how our page works: all you have to do is scroll down, and we will answer your [When](#when---visitor-information), [Where](#where---directions), [Who](#who---our-pastor), [Why](#why---salvation), and [What](#what-we-believe).
 
 
-# Visitor Information - When
+# When - Visitor Information
 
 ***
 
@@ -32,7 +32,7 @@ We do have a nursery during services.
 We also have Wednesday night services starting at 7:00 PM.
 
 
-# Directions - Where
+# Where - Directions
 
 ***
 
@@ -44,7 +44,7 @@ In order to promote social isolation, we are currently holding our services onli
 </div>
 
 
-# Our Pastor - Who
+# Who - Our Pastor
 
 ***
 
@@ -53,7 +53,7 @@ In order to promote social isolation, we are currently holding our services onli
 Pastor Coffman is a 1986 graduate of Hope Institute of the Scriptures in Toledo, Ohio. He and his wife, Shelly, have four children. He has been pastoring in Lexington, Kentucky for 25 years. He was saved at the age of twelve, raised in a godly home, and called to preach as a young man. He has a strong desire to take God's side in all that he does.
 
 
-# Salvation - Why
+# Why - Salvation
 
 ***
  
@@ -91,7 +91,7 @@ But as many as received him, to them gave he power to become the sons of God, ev
 Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new. (2 Corinthians 5:17)
 
 
-# We Believe - What
+# What We Believe
 
 ***
 
