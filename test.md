@@ -6,8 +6,6 @@
 
 ## Drive audio
 
-<iframe src="https://drive.google.com/file/d/1FPPBBOn8R6bcQ99NH4Qgf8LyieSgBwN8/preview" width="640" height="480"></iframe>
-
-<audio controls src="https://drive.google.com/file/d/1FPPBBOn8R6bcQ99NH4Qgf8LyieSgBwN8/view?usp=sharing#t=1610" preload="auto">
-  <p>Your browser doesn't support HTML5 audio. Here is a <a href="https://drive.google.com/file/d/1FPPBBOn8R6bcQ99NH4Qgf8LyieSgBwN8/view?usp=sharing#t=1610">link to the audio</a> instead.</p>
+<audio controls src="https://drive.google.com/file/d/1FPPBBOn8R6bcQ99NH4Qgf8LyieSgBwN8/preview#t=1610" preload="auto">
+  <p>Your browser doesn't support HTML5 audio. Here is a <a href="https://drive.google.com/file/d/1FPPBBOn8R6bcQ99NH4Qgf8LyieSgBwN8/preview#t=1610">link to the audio</a> instead.</p>
 </audio>
