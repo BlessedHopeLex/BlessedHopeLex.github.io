@@ -1,5 +1,3 @@
-<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-
 # Zoom Instructions
 
 To join our service, please click [here](https://us02web.zoom.us/j/7608593426?pwd=cjZJV016blVrS0k4ZWM2bVlhVVZkQT09).
