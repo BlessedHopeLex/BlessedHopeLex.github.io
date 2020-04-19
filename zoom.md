@@ -13,3 +13,10 @@ Once you have downloaded the app, you can click the link to start the meeting.
 Please join the meeting muted. Many un-muted microphones can cause interference for other listeners. Feel free to unmute to give prayer requets or ask questions, but please be respectful of the service.
 {: .m-0}
 </div>
+{::options parse_block_html="false" /}
+
+## Morning Service 4/19/20
+The preaching begins around 26:51.
+<audio controls src="https://www.dropbox.com/s/5ugvk9ftf3d917p/2020-04-19-Morning-Four-Essentials-preaching-starts-at-27min.m4a?raw=1" preload="auto" currentTime="1610">
+  <p>Your browser doesn't support HTML5 audio. Here is a <a href="https://www.dropbox.com/s/5ugvk9ftf3d917p/2020-04-19-Morning-Four-Essentials-preaching-starts-at-27min.m4a?raw=1">link to the audio</a> instead.</p>
+</audio>
