@@ -4,7 +4,6 @@ title: Past Services
 
 # Past Services
 
-{{page.path}}
 <ul>
   {% for post in site.services %}
     {% if post.url %}
