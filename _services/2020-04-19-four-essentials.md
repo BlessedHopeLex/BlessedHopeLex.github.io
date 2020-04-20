@@ -1,6 +1,7 @@
 ---
 sermon-title: Four Essentials
 tags: [sunday-morning]
+layout: default
 ---
 
 # Four Essentials
