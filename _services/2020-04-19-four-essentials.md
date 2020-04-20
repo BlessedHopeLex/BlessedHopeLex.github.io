@@ -2,6 +2,7 @@
 sermon-title: Four Essentials
 tags: [sunday-morning]
 layout: default
+date: 4/19/20
 ---
 
 # Four Essentials
