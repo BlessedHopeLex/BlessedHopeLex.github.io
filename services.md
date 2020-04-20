@@ -7,7 +7,7 @@ title: Past Services
 <ul>
   {% for post in site.services %}
     {% if post.url %}
-        <li><a href="{{ post.url }}">{{ post.sermon-title }} - {{ post.date | date: date_to_string  }}</a></li>
+        <li><a href="{{ post.url }}">{{ post.sermon-title }} - {{ post.date | date_to_string }}</a></li>
     {% endif %}
   {% endfor %}
 </ul>
