@@ -1,5 +1,5 @@
 
-{% include bootstrap-alert-warning.md content="In order to promote social isolation, we are currently holding our services online via [Zoom](https://blessedhopelexington.com/zoom). Please feel free to join us during normal service hours!" %}
+{% include bootstrap-alert-warning.md type="primary" content="In order to promote social isolation, we are currently holding our services online via [Zoom](https://blessedhopelexington.com/zoom). Please feel free to join us during normal service hours!" %}
 
 We're glad that you're interested in visiting our church! We know you have questions, so here's how our page works: all you have to do is scroll down, and we will answer your [When](#when---visitor-information), [Where](#where---directions), [Who](#who---our-pastor), [Why](#why---salvation), and [What](#what-we-believe).
 
