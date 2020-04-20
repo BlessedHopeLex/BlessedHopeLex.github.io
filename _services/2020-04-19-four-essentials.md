@@ -1,11 +1,11 @@
 ---
-categories: [service]
+sermon-title: Four Essentials
 tags: [sunday-morning]
 ---
 
 # Four Essentials
 
-## Morning Service 4/19/20
+### Morning Service 4/19/20
 
 {% include sermon-starts-at.md starts-at="26:50" %}
 

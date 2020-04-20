@@ -54,9 +54,9 @@
             
             <div class="collapse navbar-collapse" id="navbarNav">
                 <div class="navbar-nav">
-                    <a class="nav-item nav-link" href="/">Home</a>
-                    <a class="nav-item nav-link" href="/services">Past Services</a>
-                    <a class="nav-item nav-link" href="/zoom">Zoom</a>
+                    <a class="nav-item nav-link {% if page.path == 'index.md' %}active{% endif %}" href="/">Home</a>
+                    <a class="nav-item nav-link {% if page.path contains '/services' %}active{% endif %}" href="/services">Past Services</a>
+                    <a class="nav-item nav-link {% if page.path == 'zoom.md' %}active{% endif %}" href="/zoom">Zoom</a>
                 </div>
             </div>
         </div>
