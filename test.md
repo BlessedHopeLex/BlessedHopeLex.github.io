@@ -11,3 +11,8 @@
 </audio>
 
 How to create Drive link for audio element: https://stackoverflow.com/questions/32392072/how-to-play-google-drive-mp3-file-using-html-audio-tag
+
+## WMSD
+
+<audio controls src="http://65.111.216.221:88/broadwave.asx?src=1&rate=1" preload="auto">
+</audio>
