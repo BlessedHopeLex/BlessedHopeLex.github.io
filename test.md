@@ -16,3 +16,11 @@ How to create Drive link for audio element: https://stackoverflow.com/questions/
 
 <audio controls src="https://65.111.216.221:88/broadwave.mp3?src=1&rate=1" preload="auto">
 </audio>
+
+https://65.111.216.221:88/broadwave.mp3?src=1&rate=1
+
+http://65.111.216.221:88/broadwave.mp3?src=1&rate=1
+
+<video controls="" autoplay="" name="media">
+  <source src="http://65.111.216.221:88/broadwave.mp3?src=1&amp;rate=1" type="audio/mpeg">
+</video>
