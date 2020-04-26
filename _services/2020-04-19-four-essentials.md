@@ -4,7 +4,7 @@ tags: [sunday-morning]
 layout: default
 ---
 
-# Four Essentials
+# {{ page.sermon-title }}
 
 ### Morning Service 4/19/20
 
