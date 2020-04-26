@@ -14,5 +14,5 @@ How to create Drive link for audio element: https://stackoverflow.com/questions/
 
 ## WMSD
 
-<audio controls src="http://65.111.216.221:88/broadwave.asx?src=1&rate=1" preload="auto">
+<audio controls src="http://65.111.216.221:88/broadwave.mp3?src=1&rate=1" preload="auto">
 </audio>
