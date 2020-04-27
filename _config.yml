@@ -80,7 +80,6 @@ title: Blessed Hope Baptist Church
 google_analytics: UA-160646161-1
 show_downloads: false
 theme: jekyll-theme-cayman
-layouts_dir: _layouts
 
 collections:
     services:
