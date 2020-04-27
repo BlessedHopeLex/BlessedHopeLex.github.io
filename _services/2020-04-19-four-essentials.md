@@ -11,7 +11,9 @@ layout: default
 
 ### {{ page.date | date: "%A, %B %-d, %Y" }} {{ page.day-part }} Service
 
-
+{% if page.start-time-seconds >= 1 %}
+Needs notice
+{% endif %}
 
 {% include sermon-starts-at.md starts-at="26:50" %}
 
