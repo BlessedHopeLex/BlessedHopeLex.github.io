@@ -9,10 +9,23 @@ layout: default
 
 # {{ page.sermon-title }}
 
-<!-- ### {{ page.date | date_to_string }} {{ page.day-part }} Service
+### {{ page.date | date_to_string }} {{ page.day-part }} Service
 
 {% if page.start-time-seconds >= 1 %}
-  {% include sermon-starts-at.md starts-at="{{ page.start-time-seconds | divided_by: 60 }}:{{ page.start-time-seconds | modulo: 60 }}" %}
-{% endif %} -->
+    {% capture starts-at-time %}
+    {{ page.start-time-seconds | divided_by: 60 }}:{{ page.start-time-seconds | modulo: 60 }}
+    {% endcapture %}
 
-{% include google-drive-audio.md drive-id="{{ page.google-drive-id }}" start-time-seconds="{{ page.start-time-seconds }}" %}
+  {% include sermon-starts-at.md starts-at=starts-at-time %}
+{% endif %}
+
+
+{% capture google-drive-id %}
+{{ page.google-drive-id }}
+{% endcapture %}
+
+{% capture start-time-seconds %}
+{{ page.start-time-seconds }}
+{% endcapture %}
+
+{% include google-drive-audio.md drive-id=google-drive-id start-time-seconds=start-time-seconds %}
