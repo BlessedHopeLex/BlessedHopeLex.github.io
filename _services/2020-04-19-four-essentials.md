@@ -8,7 +8,7 @@ layout: default
 
 # {{ page.sermon-title }}
 
-### {{ page.date | date-to_string }} {{ page.day-part }} Service
+### {{ page.date | date-to-string }} {{ page.day-part }} Service
 
 {% include sermon-starts-at.md starts-at="26:50" %}
 
