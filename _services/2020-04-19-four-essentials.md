@@ -11,7 +11,7 @@ layout: default
 
 ### {{ page.date | date_to_string }} {{ page.day-part }} Service
 
-{% if page.start-time-seconds >= 1 %}
+<!-- {% if page.start-time-seconds >= 1 %}
     {% capture starts-at-time %}
     {{ page.start-time-seconds | divided_by: 60 }}:{{ page.start-time-seconds | modulo: 60 }}
     {% endcapture %}
@@ -28,4 +28,4 @@ layout: default
 {{ page.start-time-seconds }}
 {% endcapture %}
 
-{% include google-drive-audio.md drive-id=google-drive-id start-time-seconds=start-time-seconds %}
+{% include google-drive-audio.md drive-id=google-drive-id start-time-seconds=start-time-seconds %} -->
