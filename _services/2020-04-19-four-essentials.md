@@ -12,7 +12,7 @@ layout: default
 ### {{ page.date | date: "%A, %B %-d, %Y" }} {{ page.day-part }} Service
 
 {% if page.start-time-seconds >= 1 %}
-Needs notice
+    {{ page.start-time-seconds | divided_by: 60 }}:{{ page.start-time-seconds | modulo: 60 }}
 {% endif %}
 
 {% include sermon-starts-at.md starts-at="26:50" %}
