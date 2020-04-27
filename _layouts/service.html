@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<h1>{{ page.sermon-title }}</h1>
+
+<h3>{{ page.date | date_to_string }} {{ page.day-part }} Service</h3>
+
+{% if page.start-time-seconds > 0 %}
+  {% include sermon-starts-at.md starts-at="{{ page.start-time-seconds | divided_by: 60 }}:{{ page.start-time-seconds | modulo: 60 }}" %}
+{% endif %}
+
+{% include google-drive-audio.md drive-id="{{ page.google-drive-id }}" start-time-seconds="{{ page.start-time-seconds }}" %}
+
+{{ content }}
