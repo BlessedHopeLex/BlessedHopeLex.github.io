@@ -1,11 +1,30 @@
 ---
-sermon-title: Deity of Christ Pt. 2
-tags: [sunday-morning]
+sermon-title: Prophecies of Christ Pt. 2
+google-drive-id: 1oc6ttd5Kf3ajIXZwhCn9v_QpH5jmnG6u
+start-time-seconds: 0
+day-part: Evening
+tags: [sunday-evening]
 layout: default
 ---
 
 # {{ page.sermon-title }}
 
-### Morning Service 4/26/20
+### {{ page.date | date: "%A, %B %-d, %Y" }} {{ page.day-part }} Service
 
-{% include google-drive-audio.md drive-id="1oc6ttd5Kf3ajIXZwhCn9v_QpH5jmnG6u" start-time="0" %}
+{% if page.start-time-seconds >= 1 %}
+{% capture starts-at-time %}
+{{ page.start-time-seconds | divided_by: 60 }}:{{ page.start-time-seconds | modulo: 60 }}
+{% endcapture %}
+
+{% include sermon-starts-at.md starts-at=starts-at-time %}
+{% endif %}
+
+{% capture video-id %}
+{{ page.google-drive-id }}
+{% endcapture %}
+
+{% capture start-time %}
+{{ page.start-time-seconds }}
+{% endcapture %}
+
+{% include google-drive-audio.md drive-id=video-id start-time=start-time %}
