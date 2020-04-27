@@ -1,12 +1,13 @@
 ---
 sermon-title: Four Essentials
+day-part: Morning
 tags: [sunday-morning]
 layout: default
 ---
 
 # {{ page.sermon-title }}
 
-### Morning Service 4/19/20
+### {{ page.date | date-to_string }} {{ page.day-part }} Service
 
 {% include sermon-starts-at.md starts-at="26:50" %}
 
