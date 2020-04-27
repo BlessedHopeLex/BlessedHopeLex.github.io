@@ -13,7 +13,7 @@ layout: default
 {% include sermon-starts-at.md starts-at="26:50" %}
 
 {% capture video-id %}
-    {{ page.google-drive-id }}
+{{ page.google-drive-id }}
 {% endcapture %}
 
 {% include google-drive-audio.md drive-id=video-id start-time="1610" %}
