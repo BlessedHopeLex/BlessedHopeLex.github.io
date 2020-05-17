@@ -1,6 +1,6 @@
 # Zoom Instructions
 
-To join our service, please click [here](https://us02web.zoom.us/j/7608593426?pwd=cjZJV016blVrS0k4ZWM2bVlhVVZkQT09).
+To join our service, please click [here](https://meet.google.com/qrf-yiyo-ohe).
 
 The link will open a website, and you will be asked to download the Zoom app (available on Windows, Mac, Iphone, and Android).
 
