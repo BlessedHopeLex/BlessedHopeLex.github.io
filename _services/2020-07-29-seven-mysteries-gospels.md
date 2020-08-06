@@ -1,9 +1,9 @@
 ---
-sermon-title: A Great Woman
-google-drive-id: 1ruvcHK4jrUBIB2AOZxAVYUM1pOrpFrgv
+sermon-title: Seven Mysteries and Seven Gospels
+google-drive-id: 114JVKvSi3zTbL4E1NXb6ozarIe33P8G6
 start-time-seconds: 0
-day-part: Morning
-tags: [sunday-morning]
+day-part: Evening
+tags: [wednesday-evening]
 layout: default
 ---
 
