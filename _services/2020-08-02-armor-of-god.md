@@ -1,5 +1,5 @@
 ---
-sermon-title: Where Do You Turn
+sermon-title: The Armor of God
 google-drive-id: 1pJ-wN7WQBTU_TCF_Fr7x0dWrnBpFQeyQ
 start-time-seconds: 0
 day-part: Evening
