@@ -1,3 +1,9 @@
+
+{::options parse_block_html="true" /}
+<a class="btn btn-primary" href="https://us02web.zoom.us/j/7608593426?pwd=cjZJV016blVrS0k4ZWM2bVlhVVZkQT09">Join Zoom</a>
+{: .m-0}
+{::options parse_block_html="false" /}
+
 ## Dropbox audio
 
 <audio controls src="https://uc90cac3d4cb4ca0cc4bb8311ef6.dl.dropboxusercontent.com/cd/0/inline/A2JNLcQX8JT6Eim4ujTcvs_ybKysDNjtLmfaTfDsB1HKnEf68X2baccp-mvCRzTcnNGUK0Akhc-KRcG9oyRtwY9LxoxbD2Sw7tY1YjWZxp-lIBIR_Js7rwtyFyvSrLlPZUs/file#t=1610" preload="auto">
