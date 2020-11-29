@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{::options parse_block_html="false" /}
+
 # {{ page.sermon-title }}
 
 ### {{ page.date | date: "%A, %B %-d, %Y" }} {{ page.day-part }} Service
@@ -26,3 +28,6 @@ layout: default
 
 
 {{ content }}
+
+
+{::options parse_block_html="true" /}
