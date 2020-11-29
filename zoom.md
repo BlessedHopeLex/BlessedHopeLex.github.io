@@ -1,6 +1,9 @@
 # Zoom Instructions
 
-To join our service, please click [here](https://us02web.zoom.us/j/7608593426?pwd=cjZJV016blVrS0k4ZWM2bVlhVVZkQT09).
+{::options parse_block_html="true" /}
+<a class="btn btn-primary" href="https://us02web.zoom.us/j/7608593426?pwd=cjZJV016blVrS0k4ZWM2bVlhVVZkQT09">Join Zoom Service</a>
+{: .m-0}
+{::options parse_block_html="false" /}
 
 {% include bootstrap-alert-warning.md content="If Zoom has issues, please use the backup [Google Meeting](https://meet.google.com/qrf-yiyo-ohe). Note: you will need a Google account to join." %}
 
