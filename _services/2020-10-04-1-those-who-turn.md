@@ -1,9 +1,9 @@
 ---
-sermon-title: Footwashing
-google-drive-id: 1L0RcSiN-ztRYR0dNIc_LsPy9BRV6x6xt
+sermon-title: Those Who Came to David
+google-drive-id: 15szbpWNLxhdNNkOTNxB-QQ_hz75aZmkQ
 start-time-seconds: 0
-day-part: Evening
-tags: [sunday-evening]
+day-part: Morning
+tags: [sunday-morning]
 layout: default
 ---
 

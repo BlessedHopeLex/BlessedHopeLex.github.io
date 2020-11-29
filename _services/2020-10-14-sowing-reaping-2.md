@@ -1,9 +1,9 @@
 ---
-sermon-title: Footwashing
-google-drive-id: 1L0RcSiN-ztRYR0dNIc_LsPy9BRV6x6xt
+sermon-title: Sowing and Reaping (pt. 2)
+google-drive-id: 1r_YhHkKq8eEXqShsuNIAnN4GMsVWH7hR
 start-time-seconds: 0
 day-part: Evening
-tags: [sunday-evening]
+tags: [wednesday-evening]
 layout: default
 ---
 
