@@ -1,14 +1,11 @@
-# Zoom Instructions
-
 {::options parse_block_html="true" /}
-<div class="card" style="width: 18rem;">
-    <iframe class="card-img-top" src="https://onedrive.live.com/embed?cid=19DF4E5D38A1B8EB&resid=19DF4E5D38A1B8EB%2146838&authkey=AIMjA-Dsygbt_8c&em=2" width="402" height="327" frameborder="0" scrolling="no"></iframe>
-  <img src="..." class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">Church History Slides - 12/9</h5>
-  </div>
+<div class="alert alert-secondary" role="alert">
+  <a href="https://blessedhopelexington.com/services/2020-12-09-church-history-4/">Slides</a> are available for tonight's service.
 </div>
 {::options parse_block_html="false" /}
+
+# Zoom Instructions
+
 
 {::options parse_block_html="true" /}
 <a class="btn btn-primary" href="https://us02web.zoom.us/j/7608593426?pwd=cjZJV016blVrS0k4ZWM2bVlhVVZkQT09">Join Zoom Service</a>
