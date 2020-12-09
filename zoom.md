@@ -1,6 +1,6 @@
 {::options parse_block_html="true" /}
 <div class="alert alert-secondary" role="alert">
-    <a href="https://blessedhopelexington.com/services/2020-12-09-church-history-4/">Slides</a> are available for tonight's service.
+  <a href="https://blessedhopelexington.com/services/2020-12-09-church-history-4/">Slides</a> are available for tonight's service.
 </div>
 {::options parse_block_html="false" /}
 
