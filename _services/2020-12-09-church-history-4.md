@@ -1,6 +1,6 @@
 ---
 sermon-title: Church History 4
-google-drive-id: 
+google-drive-id: 14PcnnzO8KYXd078KcDwZIx4-tyh2pSoI
 start-time-seconds: 0
 day-part: Evening
 tags: [wednesday-evening, church-hisotry]
@@ -11,7 +11,7 @@ layout: default
 
 ### {{ page.date | date: "%A, %B %-d, %Y" }} {{ page.day-part }} Service
 
-<!-- {% if page.start-time-seconds >= 1 %}
+{% if page.start-time-seconds >= 1 %}
 {% capture starts-at-time %}
 {{ page.start-time-seconds | divided_by: 60 }}:{{ page.start-time-seconds | modulo: 60 }}
 {% endcapture %}
@@ -27,7 +27,7 @@ layout: default
 {{ page.start-time-seconds }}
 {% endcapture %}
 
-{% include google-drive-audio.md drive-id=video-id start-time=start-time %} -->
+{% include google-drive-audio.md drive-id=video-id start-time=start-time %}
 
 {::options parse_block_html="true" /}
 <iframe src="https://onedrive.live.com/embed?cid=19DF4E5D38A1B8EB&resid=19DF4E5D38A1B8EB%2146838&authkey=AIMjA-Dsygbt_8c&em=2" width="402" height="327" frameborder="0" scrolling="no"></iframe>
