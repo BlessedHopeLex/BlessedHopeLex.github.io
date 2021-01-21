@@ -1,6 +1,6 @@
 ---
-sermon-title: God's Gift
-google-drive-id: 1q-T56QToczUpBXEdVjja3e12-aI2JTSs
+sermon-title: Battles in this Life
+google-drive-id: 1VNss2KKla5u_r-aXgqKUudJc4Cm99T2w
 start-time-seconds: 0
 day-part: Morning
 tags: [sunday-morning]

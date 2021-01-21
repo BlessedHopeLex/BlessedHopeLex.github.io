@@ -1,6 +1,6 @@
 ---
-sermon-title: God's Gift
-google-drive-id: 1q-T56QToczUpBXEdVjja3e12-aI2JTSs
+sermon-title: The Night Before Jesus Came
+google-drive-id: 1q6YVWIo92lFgtVuzfvUUntyNUOYWL3tq
 start-time-seconds: 0
 day-part: Morning
 tags: [sunday-morning]

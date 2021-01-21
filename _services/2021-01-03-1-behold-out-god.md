@@ -1,6 +1,6 @@
 ---
-sermon-title: God's Gift
-google-drive-id: 1q-T56QToczUpBXEdVjja3e12-aI2JTSs
+sermon-title: Behold Our God
+google-drive-id: 14oVTRXZZJ2i4cbflDzv5hmIxR7eX8lC8
 start-time-seconds: 0
 day-part: Morning
 tags: [sunday-morning]

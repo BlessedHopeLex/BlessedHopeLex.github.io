@@ -1,6 +1,6 @@
 ---
-sermon-title: God's Gift
-google-drive-id: 1q-T56QToczUpBXEdVjja3e12-aI2JTSs
+sermon-title: The Great Work
+google-drive-id: 1X-DdK-8LsBpudcMAyDiDXtaNnXk1vb5_
 start-time-seconds: 0
 day-part: Morning
 tags: [sunday-morning]

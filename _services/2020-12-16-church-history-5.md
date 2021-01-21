@@ -1,9 +1,9 @@
 ---
-sermon-title: God's Gift
-google-drive-id: 1q-T56QToczUpBXEdVjja3e12-aI2JTSs
-start-time-seconds: 0
-day-part: Morning
-tags: [sunday-morning]
+sermon-title: Church History 5
+google-drive-id: 19HPVoyxt18GniY1o7lygS7dlhJ7ULXVh
+start-time-seconds: 87
+day-part: Evening
+tags: [wednesday-evening, church-hisotry]
 layout: default
 ---
 
@@ -28,3 +28,7 @@ layout: default
 {% endcapture %}
 
 {% include google-drive-audio.md drive-id=video-id start-time=start-time %}
+
+{::options parse_block_html="true" /}
+<iframe src="https://onedrive.live.com/embed?cid=19DF4E5D38A1B8EB&resid=19DF4E5D38A1B8EB%2146840&authkey=AFcO2tJafYCc9H0&em=2" width="402" height="327" frameborder="0" scrolling="no"></iframe>
+{::options parse_block_html="false" /}

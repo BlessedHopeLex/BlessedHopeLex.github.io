@@ -1,9 +1,9 @@
 ---
-sermon-title: God's Gift
-google-drive-id: 1q-T56QToczUpBXEdVjja3e12-aI2JTSs
+sermon-title: What's the Deal with Christmas?
+google-drive-id: 17AqZfATNaA9zAuxCODPWW64iNmQyAs38
 start-time-seconds: 0
-day-part: Morning
-tags: [sunday-morning]
+day-part: Evening
+tags: [sunday-evening]
 layout: default
 ---
 
