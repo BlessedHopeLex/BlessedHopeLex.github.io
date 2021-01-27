@@ -5,9 +5,10 @@ title: Past Services
 # Past Services
 
 <ul>
-  {% for post in site.services %}
+  {% assign sorted = site.services | sort: 'date' | reverse %}
+  {% for post in sorted %}
     {% if post.url %}
-        <li>{{ post.date | date: "%a, %b %-d, %Y" }}, {{ post.day-part }} - <a href="{{ post.url }}">{{ post.sermon-title }}</a></li>
+        <li><a href="{{ post.url }}">{{ post.sermon-title }}</a> - {{ post.date | date: "%a, %F" }}, {{ post.day-part }}</li>
     {% endif %}
   {% endfor %}
 </ul>
