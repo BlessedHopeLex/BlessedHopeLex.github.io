@@ -3,7 +3,7 @@ sermon-title: Church History 4
 google-drive-id: 14PcnnzO8KYXd078KcDwZIx4-tyh2pSoI
 start-time-seconds: 0
 day-part: Evening
-tags: [wednesday-evening, church-hisotry]
+tags: [wednesday-evening church-hisotry]
 layout: default
 ---
 

@@ -1,9 +1,9 @@
 ---
-sermon-title: Church History 7
-google-drive-id: 1yaeydxRr7nEAaVER8i9JArBUivGklvmm
-start-time-seconds: 87
-day-part: Evening
-tags: [wednesday-evening church-hisotry]
+sermon-title: Astonishment
+google-drive-id: 1MMwKOc8jUg6EMzahA_OMuzIpz1u7AVFl
+start-time-seconds: 0
+day-part: Morning
+tags: [sunday-morning]
 layout: default
 ---
 
@@ -28,7 +28,3 @@ layout: default
 {% endcapture %}
 
 {% include google-drive-audio.md drive-id=video-id start-time=start-time %}
-
-{::options parse_block_html="true" /}
-<iframe src="https://onedrive.live.com/embed?cid=19DF4E5D38A1B8EB&resid=19DF4E5D38A1B8EB%2149220&authkey=AGrWoxWGLsDFPzw&em=2" width="402" height="327" frameborder="0" scrolling="no"></iframe>
-{::options parse_block_html="false" /}
