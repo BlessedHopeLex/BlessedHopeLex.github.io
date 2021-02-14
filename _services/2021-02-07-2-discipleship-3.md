@@ -1,6 +1,6 @@
 ---
-sermon-title: Discipleship Course 2
-google-drive-id: 15svRUURppbHszZYWLAA19RrjR5cZ29y_
+sermon-title: Discipleship Course 3
+google-drive-id: 18-SPoWzgoGVATyqCgGlHo0j73MkW7J6I
 start-time-seconds: 0
 day-part: Evening
 tags: [sunday-evening discipleship-course]

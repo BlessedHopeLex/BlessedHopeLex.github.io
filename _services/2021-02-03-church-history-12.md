@@ -1,9 +1,9 @@
 ---
-sermon-title: Discipleship Course 2
-google-drive-id: 15svRUURppbHszZYWLAA19RrjR5cZ29y_
+sermon-title: Church History 12
+google-drive-id: 1-_ug2lvWzYuRFTMTysQDq38tPZ32HBJm
 start-time-seconds: 0
 day-part: Evening
-tags: [sunday-evening discipleship-course]
+tags: [wednesday-evening church-hisotry]
 layout: default
 ---
 
@@ -28,3 +28,7 @@ layout: default
 {% endcapture %}
 
 {% include google-drive-audio.md drive-id=video-id start-time=start-time %}
+
+{::options parse_block_html="true" /}
+<iframe src="https://onedrive.live.com/embed?cid=19DF4E5D38A1B8EB&resid=19DF4E5D38A1B8EB%2149232&authkey=AGgPJzbpxEVhT-0&em=2" width="402" height="327" frameborder="0" scrolling="no"></iframe>
+{::options parse_block_html="false" /}

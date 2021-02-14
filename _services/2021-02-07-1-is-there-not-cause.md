@@ -1,9 +1,9 @@
 ---
-sermon-title: Discipleship Course 2
-google-drive-id: 15svRUURppbHszZYWLAA19RrjR5cZ29y_
+sermon-title: Is There Not A Cause
+google-drive-id: 1_70gozXa4RS46OoA6QgDNavX-GxQ262w
 start-time-seconds: 0
-day-part: Evening
-tags: [sunday-evening discipleship-course]
+day-part: Morning
+tags: [sunday-morning]
 layout: default
 ---
 
