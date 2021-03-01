@@ -81,7 +81,7 @@ Ezekiel 28:11-13
 
 1 Samuel 20:30 in the Living Bible:
 
-![Living Bible - 1 Samuel 20:30]({{ site.url }}/assets/living_bible_1_sam_20_30.jpg)
+![Living Bible - 1 Samuel 20:30]({{ site.url }}assets/living_bible_1_sam_20_30.jpg)
 
 Isaiah 14:12 in an NIV gives the devil Jesus' title:
 
