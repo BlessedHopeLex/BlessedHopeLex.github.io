@@ -92,4 +92,5 @@ Isaiah 14:12 in an NIV gives the devil Jesus' title:
 
 Compare with Revelation 22:16:
 
-    “I, Jesus, have sent my angel to give you[a] this testimony for the churches. I am the Root and the Offspring of David, and the bright Morning Star.”
+    “I, Jesus, have sent my angel to give you this testimony for the churches.
+    I am the Root and the Offspring of David, and the bright Morning Star.”
