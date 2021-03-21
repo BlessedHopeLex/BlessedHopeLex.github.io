@@ -36,7 +36,7 @@ layout: default
 ## How did we get the Bible?
 - Revelation - God spoke to man - John 17:14, Ephesians 3:2-6
 
-- Inspiration - Man wrote God's words down - 2 Peter 1:20-21, 2 Timthoy 3:16
+- Inspiration - Man wrote God's words down - 2 Peter 1:20-21; 2 Timthoy 3:16
 
 - Preservation - The words were copied perfectly - 1 Peter 1:23-25, Psalms 12:6-7, Matthew 5:17-18
 
@@ -52,7 +52,7 @@ Should it set on a shelf and collect dust?
 
 - Study - 2 Timothy 2:15
 
-    - Preparation - Ezra 7:10, Matthew 7:7, James 1:5, 1 Corinthians 14:37, Matthew 11:25, 1 Corinthians 2:13-16
+    - Preparation - Ezra 7:10, Matthew 7:7, James 1:5, 1 Corinthians 14:37, Matthew 11:25; 1 Corinthians 2:13-16
 
     - A quiet place, somewhere you and God can be alone and do business.
 
@@ -60,7 +60,7 @@ Should it set on a shelf and collect dust?
 
     - Daily - Acts 17:11
 
-    - Always - 1 Peter 3:15, 2 Peter 1:12-15
+    - Always - 1 Peter 3:15; 2 Peter 1:12-15
 
     - Strategies
 
