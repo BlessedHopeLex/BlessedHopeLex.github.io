@@ -36,7 +36,7 @@ layout: default
 ## How did we get the Bible?
 - Revelation - God spoke to man - John 17:14, Ephesians 3:2-6
 
-- Inspiration - Man wrote God's words down - 2 Peter 1:20-21; 2 Timthoy 3:16
+- Inspiration - Man wrote God's words down - 2 Peter 1:20-21; 2 Timothy 3:16
 
 - Preservation - The words were copied perfectly - 1 Peter 1:23-25, Psalms 12:6-7, Matthew 5:17-18
 
