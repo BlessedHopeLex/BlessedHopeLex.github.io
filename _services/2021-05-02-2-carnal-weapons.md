@@ -1,9 +1,9 @@
 ---
-sermon-title: Questions That Won't Be Asked in Hell
-google-drive-id: 1DKyuO1KVAyDgXcTYJsKJ93JGFrR12mI7
+sermon-title: Carnal Weapons
+google-drive-id: 1r2tzSeu17GYmJebS-EtY7vaVeiOHmakl
 start-time-seconds: 0
-day-part: Morning
-tags: [sunday-morning]
+day-part: Evening
+tags: [sunday-evening]
 layout: default
 ---
 

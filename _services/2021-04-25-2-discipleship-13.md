@@ -1,9 +1,9 @@
 ---
-sermon-title: Questions That Won't Be Asked in Hell
-google-drive-id: 1DKyuO1KVAyDgXcTYJsKJ93JGFrR12mI7
+sermon-title: Discipleship Course 13
+google-drive-id: 1q-mTF8gnjB45q6uNsKxvY3G2gcdLloGE
 start-time-seconds: 0
-day-part: Morning
-tags: [sunday-morning]
+day-part: Evening
+tags: [sunday-evening discipleship-course]
 layout: default
 ---
 
@@ -28,3 +28,15 @@ layout: default
 {% endcapture %}
 
 {% include google-drive-audio.md drive-id=video-id start-time=start-time %}
+
+***
+
+# Seven Mysteries
+
+1. The Incarnation - 1 Timothy 3:16
+2. The Indwelling Christ - Colossians 1:27
+3. The Body of Christ - Ephesians 5:32
+4. The Blindness of Israel - Romans 11:25
+5. The Son of Perdition - 2 Thessalonians 2:1-7; John 17:12; Revelation 17:8
+6. The Great Whore - Revelation 17:1-10
+7. The Rapture - 1 Corinthians 15:51
