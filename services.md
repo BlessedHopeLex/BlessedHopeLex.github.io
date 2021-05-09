@@ -6,7 +6,8 @@ title: Past Services
 
 <!-- <ul> -->
 <table>
-  {% assign sorted = site.services | sort: 'date' | reverse %}
+  {% assign sorted_date = site.services | sort: 'date' | reverse %}
+  {% assign sorted = sorted_date | sort: 'day-part' | reverse %}
   {% for post in sorted %}
     {% if post.url %}
         <!-- <li> -->

@@ -1,9 +1,9 @@
 ---
-sermon-title: Discipleship Course 13
-google-drive-id: 1q-mTF8gnjB45q6uNsKxvY3G2gcdLloGE
+sermon-title: The Blessings of God
+google-drive-id: 1fKYwsQq10glle2YM1sOdO-hEvgaZN9yA
 start-time-seconds: 0
-day-part: Evening
-tags: [sunday-evening discipleship-course]
+day-part: Morning
+tags: [sunday-morning]
 preacher: James Coffman
 layout: default
 ---
@@ -29,18 +29,3 @@ layout: default
 {% endcapture %}
 
 {% include google-drive-audio.md drive-id=video-id start-time=start-time %}
-
-***
-
-# Sevens in the Bible
-![Sevens in the Bible]({{ site.url }}assets/sevens-in-the-bible.jpg)
-
-# Seven Mysteries
-
-1. The Incarnation - 1 Timothy 3:16
-2. The Indwelling Christ - Colossians 1:27
-3. The Body of Christ - Ephesians 5:32
-4. The Blindness of Israel - Romans 11:25
-5. The Son of Perdition - 2 Thessalonians 2:1-7; John 17:12; Revelation 17:8
-6. The Great Whore - Revelation 17:1-10
-7. The Rapture - 1 Corinthians 15:51
