@@ -1,6 +1,6 @@
 ---
 sermon-title: Discipleship Course 14
-google-drive-id: 
+google-drive-id: 1K0VOxsouRvwTswh34lZcMXQ8Nn0imNii
 start-time-seconds: 0
 day-part: Evening
 tags: [sunday-evening discipleship-course]
