@@ -42,13 +42,13 @@ layout: default
     - The spirit of man is God's candle to give us light. Proverbs 20:27, John 1:4, John 1:9
     - Our life is loaned, but the soul is eternal.
 4. Adam became a living soul. Genesis 2:7
-    - The soul seeks to know God. Psalm 42:1-2
+    - The soul seeks to know God. Psalms 42:1-2
     - What use is a sould that doesn't seek to know God?
     - The soul is like the body in attributes. 2 Corinthians 12:2, 
         - Luke 16:19-31 - the rich man's soul had qualities of a body, but it was a soul
     - The soul, body, and spirit are different. Hebrews 4:12
         - Colossians 2:11-12 - spiritual circumcision, the operation of God on us by Christ where the flesh is cut away from the soul and spirit.
-        - 2 Corinthians 5:1-8, 1 Thessalonians 5:23, Genesis 2:7, Colossians 2:11-15
+        - 2 Corinthians 5:1-8; 1 Thessalonians 5:23, Genesis 2:7, Colossians 2:11-15
 
 ## Why did God create Adam?
 1. He created Adam in His likeness for fellowship. Genesis 3:8-9
