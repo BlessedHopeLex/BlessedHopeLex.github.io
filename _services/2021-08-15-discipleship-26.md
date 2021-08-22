@@ -140,7 +140,7 @@ layout: default
 
     There is initial sanctification, daily sanctification, and final sanctification.
     | Type | Description |
-    --- | --- 
+    --- | --- |
     | Initial | Our standing with God. |
     | Daily | The process of becoming more like Christ. |
     | Final | The receiving of a new glorified body. |
