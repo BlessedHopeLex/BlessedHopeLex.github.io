@@ -139,6 +139,7 @@ layout: default
     Salvation is an event whereas sanctification is a process.
 
     There is initial sanctification, daily sanctification, and final sanctification.
+    
     | Type | Description |
     --- | --- |
     | Initial | Our standing with God. |
