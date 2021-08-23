@@ -1,6 +1,6 @@
 ---
-sermon-title: Discipleship Course 26
-google-drive-id: 1rRo5dzDlDTNDGSm1fhy1tSHyYllI_lQW
+sermon-title: Discipleship Course 27
+google-drive-id: 1AerXRypYzcY2BkIU1ixcfurHitfhgD9Q
 start-time-seconds: 0
 day-part: Evening
 tags: [sunday-evening discipleship-course]
@@ -139,7 +139,7 @@ layout: default
     Salvation is an event whereas sanctification is a process.
 
     There is initial sanctification, daily sanctification, and final sanctification.
-    
+
     | Type | Description |
     --- | --- |
     | Initial | Our standing with God. |
