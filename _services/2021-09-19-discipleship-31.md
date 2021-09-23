@@ -1,6 +1,6 @@
 ---
-sermon-title: Discipleship Course 30
-google-drive-id: 1YDogdNbU-j25AHQX8xQqE-QAkR_8nuxQ
+sermon-title: Discipleship Course 31
+google-drive-id: 1XkWlGF2wz98ZtpXsd53w_14nfhaeVXHK
 start-time-seconds: 0
 day-part: Evening
 tags: [sunday-evening discipleship-course]
@@ -34,7 +34,7 @@ layout: default
 
 # Eternal Security
 
-As Bible believers, we believe all of Scripture, not just a selection of verses. There are verses in the Bible that say someone can lose salvation, and there are verses that say someone cannot lose it. The difference is to whom the verses are talking.
+As Bible believers, we believe all of Scripture, not just a selection of verses. There are verses in the Bible that say someone can lose their salvation, and there are verses that say someone cannot lose it. The difference is to whom the verses are talking.
 
 ## Verses that teach someone can lose salvation
 
