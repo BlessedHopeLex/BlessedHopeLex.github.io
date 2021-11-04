@@ -6,7 +6,7 @@ layout: default
 
 # {{ page.sermon-title }}
 
-### {{ page.date | date: "%A, %B %-d, %Y" }} {{ page.day-part }} Service
+##### {{ page.date | date: "%A, %B %-d, %Y" }} {{ page.day-part }} Service
 
 {% if page.start-time-seconds >= 1 %}
 {% capture starts-at-time %}
