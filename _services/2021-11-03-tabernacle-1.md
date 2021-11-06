@@ -1,6 +1,6 @@
 ---
 sermon-title: Tabernacle 1
-google-drive-id: 
+google-drive-id: 1-Um1dBIfVzoBLUPlj1Ia0NIA1aXi95cv
 start-time-seconds: 0
 day-part: Evening
 tags: [wednesday-evening tabernacle]
@@ -58,7 +58,7 @@ The Book of Exodus:
 
 **12.** The Passover lamb and Israel leaves Egypt
 
-    - The Egyptians lent them jewels and clothes: Exodus 12:35-36
+- The Egyptians lent them jewels and clothes: Exodus 12:35-36
 
 **14.** Pharoah chases Israel and the crossing of the Red Sea
 
@@ -101,7 +101,7 @@ The materials were to be given as an offering by the children of Israel (Ex. 25:
 - Badgers' skins 
 - Shittim wood - represents the humanity of Christ, since men are likened to trees (Ezekiel 31, Psalm 1:3, Mark 8:24)
 - Oil - olive oil (Exodus 27:20)
-- Spices
+- Spices - associated with death (Mark 16:1, John 19:40)​
 - Onyx stones, and stones - The other stones are listed in Exodus 28:17-20, they represent New Jerusalem (Revelation 21-22), they are part of the glory God gave to Christ before the foundation of the world (John 17:24)
 
 #tabernacle
