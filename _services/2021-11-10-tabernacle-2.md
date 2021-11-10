@@ -85,9 +85,13 @@ If you looked down at the Tabernacle from an airplane, you would see a big tent 
 Today we're going to talk about what is inside the tent.
 
 +---------------------------+
+
 |       |   [###### ######] |
+
 |  [ ]   | (~)               |
+
 |       |       ^^^^^^^     |
+
 +---------------------------+
 
 The inside of the tent is split into two sections by a curtain wall. When you first enter the tent you find yourself in the Holy Place. In the Holy Place is the golden candlestick, the table of shewbread, and the golden altar. At the far end you would see a thick curtain (called a veil). Behind that curtain is the Holy of Holies, which has the Ark of the Covenant inside. The first thing mentioned in the instructions for the construction of the tabernacle is the furniture, and the first item to show up clearly is the ark: a reference to the place where God will "meet" with the children of Israel; it matches the throne of Revelation 4:2-6 -- cherubims and all. The moral in this "order of importance":
