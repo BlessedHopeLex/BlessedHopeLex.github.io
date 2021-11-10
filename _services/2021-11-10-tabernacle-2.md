@@ -72,32 +72,12 @@ Everything was portable, nothing had a foundation in the earth. Everything had r
 
 If you looked down at the Tabernacle from an airplane, you would see a big tent and a curtain fence around it.
 
-+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+
-{                                               }
-{   +---------------------------+               }
-{   [                           ]               }
-{   [                            ]               }
-{   [                           ]               }
-{   +---------------------------+               }
-{                                               }
-+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+
-
 Today we're going to talk about what is inside the tent.
-
-+---------------------------+
-
-|       |   [###### ######] |
-
-|  [ ]   | (~)               |
-
-|       |       ^^^^^^^     |
-
-+---------------------------+
 
 The inside of the tent is split into two sections by a curtain wall. When you first enter the tent you find yourself in the Holy Place. In the Holy Place is the golden candlestick, the table of shewbread, and the golden altar. At the far end you would see a thick curtain (called a veil). Behind that curtain is the Holy of Holies, which has the Ark of the Covenant inside. The first thing mentioned in the instructions for the construction of the tabernacle is the furniture, and the first item to show up clearly is the ark: a reference to the place where God will "meet" with the children of Israel; it matches the throne of Revelation 4:2-6 -- cherubims and all. The moral in this "order of importance":
 1. Unless God Himself initiates the action, we cannot approach unto Him.
 2. Salvation begins with God Himself as its "author and finisher" (Hebrews 12:2), and all work of reconciliation must proceed out from God to man, not in the reverse order.
-3. As an ark saved the human race (Genesis 6-9), so now an ark is used as a meeting place of communion for the nation of Israel (vs 22). In both cases, the Lord Himself had to give the instructions for the building of the Ark: it was a *supernatural revelation* both times.
+3. As an ark saved the human race (Genesis 6-9), so now an ark is used as a meeting place of communion for the nation of Israel (Exodus 25:22). In both cases, the Lord Himself had to give the instructions for the building of the Ark: it was a *supernatural revelation* both times.
 
 ## The Ark
 
@@ -113,7 +93,7 @@ The Ark was a box made of shittim wood, covered inside and out with gold, not li
 
 It had four rings to carry it, representing the four Gospels.
 
-The "crown of gold" suggests that we are dealing not only with a Redeemer and Saviour (the Kingdom of God), but an earthly ruler (the Kingdom of Heaven). The "rings" and "staves" were for carrying the Ark. The staves were left in the rings (vs 15) even after the Ark was deposited in the Holy of Holies. It is not until 1 Kings 8:8 that these staves are removed from the Ark. This passage clearly shows us that Solomon's reign was a type of the Millennial reign of Christ, and when Christ returns to this earth, His reign goes right on out into Eternity.
+The "crown of gold" suggests that we are dealing not only with a Redeemer and Saviour (the Kingdom of God), but an earthly ruler (the Kingdom of Heaven). The "rings" and "staves" were for carrying the Ark. The staves were left in the rings (Exodus 25:15) even after the Ark was deposited in the Holy of Holies. It is not until 1 Kings 8:8 that these staves are removed from the Ark. This passage clearly shows us that Solomon's reign was a type of the Millennial reign of Christ, and when Christ returns to this earth, His reign goes right on out into Eternity.
 
 "The staves" of Numbers 4:6 are an additional pair.
 
@@ -121,6 +101,6 @@ The "crown of gold" suggests that we are dealing not only with a Redeemer and Sa
 
 The nation of Israel has no Ark until AFTER *they have apostatized and gone back into Egyptian idolatry* (chap. 32). The Lord gives them time to break all Ten Commandments (chap. 32) before He lets them build a "mercy seat." You can be certain that when they built it, they knew what it was for!
 
-The Ark remained in Shiloh (Joshua 18:1) after the conquest of the land. It was captured, temporarily, by the *Philistines* (1 Samuel 4-6) and was brought up from the house of *Obed-edom* by David in 1 Chronicles 13 (cf. 2 Samuel 6). Solomon placed it in the *Temple* in 1 Kings 8, but there is no record of Shishak or Nebuchadnezzar getting their hands on it. In Revelation 11:19, we can assume that it was RAPTURED before the destruction of Jerusalem under Nebuchadnezzar. Notice the *mobility of the ark* as it FLEW across the desert (see Numbers 10:33-36).
+The Ark remained in Shiloh (Joshua 18:1) after the conquest of the land. It was captured, temporarily, by the *Philistines* (1 Samuel 4-6) and was brought up from the house of *Obed-edom* by David in 1 Chronicles 13 (cf. 2 Samuel 6). Solomon placed it in the *Temple* in 1 Kings 8, but there is no record of Shishak or Nebuchadnezzar getting their hands on it. In Revelation 11:19, we can assume that it was raptured before the destruction of Jerusalem under Nebuchadnezzar. Notice the *mobility of the ark* as it flew across the desert (see Numbers 10:33-36).
 
 #tabernacle
