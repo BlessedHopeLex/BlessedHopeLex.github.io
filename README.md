@@ -1,3 +1,18 @@
+## To Delete Unneeded Zoom Files
+
+When Zoom records, it always records the video and another file along with the audio. Those unneeded files take up a lot of disk space. To delete them, use this procedure:
+
+1. Open `cmd` and navigate to the folder where Zoom saves recordings: ~/Documents/Zoom
+```
+cd ~/Documents/Zoom
+```
+2. Run these commands (be very careful to get them correct, they will delete files):
+```
+DEL /S /Q *.mp4
+DEL /S /Q *.m3u
+```
+You will see a printout of all the files deleted.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/BlessedHopeLex/blessedhopelex.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
