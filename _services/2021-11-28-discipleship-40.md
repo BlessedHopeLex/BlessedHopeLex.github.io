@@ -83,9 +83,7 @@ How do you know He is around?
     - Acts 11:12
 
 6. Resisting
-
-You can resist Him, but you shouldn't.
-
+    - You can resist Him, but you shouldn't.
     - Ephesians 4:30
     - 1 Thessalonians 5:19
     - Acts 5:9
@@ -93,9 +91,7 @@ You can resist Him, but you shouldn't.
     - Isaiah 63:10
 
 7. Restoring
-
-Confess and repent.
-
+    - Confess and repent.
     - 1 John 1:9
 
 8. Blaspheming
