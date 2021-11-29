@@ -1,6 +1,6 @@
 ---
 sermon-title: Discipleship Course 40
-google-drive-id: 
+google-drive-id: 109lHqhc1LysENb08WQfq_RQQyCgNwcrg
 start-time-seconds: 0
 day-part: Evening
 tags: [sunday-evening discipleship-course]
@@ -82,21 +82,19 @@ How do you know He is around?
     - Acts 10:19
     - Acts 11:12
 
-6. Resisting
-    - You can resist Him, but you shouldn't.
+6. Resisting - You can resist Him, but you shouldn't.
     - Ephesians 4:30
     - 1 Thessalonians 5:19
     - Acts 5:9
     - Acts 7:51
     - Isaiah 63:10
 
-7. Restoring
-    - Confess and repent.
+7. Restoring - Confess and repent.
     - 1 John 1:9
+    - 2 Corinthians 2:6-8
 
 8. Blaspheming
-
-    - Attributing works of God to the devil
+    - Attributing works of Jesus Christ to the devil
         - Matthew 12:24,28,31
 
     - Rejecting Christ
