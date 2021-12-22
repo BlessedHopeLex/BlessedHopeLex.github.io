@@ -1,5 +1,5 @@
 ---
-sermon-title: Tabernacle 5
+sermon-title: Tabernacle 6
 google-drive-id: 
 start-time-seconds: 0
 day-part: Evening
