@@ -1,6 +1,6 @@
 ---
-sermon-title: Discipleship Course 44
-google-drive-id: 141z3hIMAjA6y1_5Xd7e1OY7H4OMvBVUC
+sermon-title: Discipleship Course 45
+google-drive-id: 14c6XentfGfZoBPsXR1WTmx-kyF8miSUH
 start-time-seconds: 0
 day-part: Evening
 tags: [sunday-evening discipleship-course]
@@ -32,4 +32,9 @@ layout: default
 
 ***
 
-# Healing
+# The Local Church
+
+"The church" has two different meanings:
+1. The Body of Christ - all people who have accepted Jesus Christ as their personal Savior are part of the Body of Christ (the Church). There are no lost people in the Body of Christ. The Body of Christ is sometimes called the "universal church". Ephesians 5:29-32, Colossians 1:18, Ephesians 1:20-23, Ephesians 4:4-6, Ephesians 4:11-16, 1 Corinthians 12:12-28
+2. The local church - an assembly of people in a local place who come together to worship Jesus Christ. There are some lost people in local churches (religious, but lost).
+
