@@ -51,16 +51,15 @@ The world, the flesh, and the devil - see lesson on Spiritual Warfare.
 - Colossians 4:14
 
 2. Peers
-- Embarrassed 
-    - You don't know what to say.
-    - They don't know what to say.
-
-- The Gospel is foolishness to them that perish
-- They may be uncomfortable.
-- They may be looking for your mistakes.
-- Group dynamics
-    - You are the minority.
-    - Maybe they really are interested but afraid to ask in front of everybody.
+    - Embarrassed 
+        - You don't know what to say.
+        - They don't know what to say.
+    - The Gospel is foolishness to them that perish
+    - They may be uncomfortable.
+    - They may be looking for your mistakes.
+    - Group dynamics
+        - You are the minority.
+        - Maybe they really are interested but afraid to ask in front of everybody.
 
 3. Boss
 - May hold your job over your head.
