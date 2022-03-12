@@ -51,37 +51,30 @@ The world, the flesh, and the devil - see lesson on Spiritual Warfare.
 - Colossians 4:14
 
 1. Family
-- You will have a tendency to be overzealous with those you love.
-    - Give them the truth, be kind, and give them to God.
-    - Don't beat them up all the time.
-    - John 2:17
-    - Romans 10:2
-
-- Recognize that Christ causes division.
-    - Luke 12:51-53
-
-- Love Jesus more than father or mother.
-    - Matthew 10:37
-    - Luke 14:26
-    - Genesis 29:30-31
-
-- They don't understand your religion.
-    - Closed minded - even if you have the right answer, if you are not willing to listen to others you will not have much influence with them.
-
-- Don't be ashamed.
-    - Romans 10:11
-    - Mark 8:38
-
-- Some won't listen because of pride.
-    - "You couldn't be right, you're too young."
-    - 1 Timothy 4:12
-
-- Don't be afraid.
-    - Some are afraid they will be cut out of the will.
-        - Example: when some Jews get saved, their family has their funeral.
-    - 1 Peter 1:3-4
-
-- Family finances can cause problems:
-    - Overspending
-    - Covetousness
-    - Your testimony will suffer when you owe money.
+    - You will have a tendency to be overzealous with those you love.
+        - Give them the truth, be kind, and give them to God.
+        - Don't beat them up all the time.
+        - John 2:17
+        - Romans 10:2
+    - Recognize that Christ causes division.
+        - Luke 12:51-53
+    - Love Jesus more than father or mother.
+        - Matthew 10:37
+        - Luke 14:26
+        - Genesis 29:30-31
+    - They don't understand your religion.
+        - Closed minded - even if you have the right answer, if you are not willing to listen to others you will not have much influence with them.
+    - Don't be ashamed.
+        - Romans 10:11
+        - Mark 8:38
+    - Some won't listen because of pride.
+        - "You couldn't be right, you're too young."
+        - 1 Timothy 4:12
+    - Don't be afraid.
+        - Some are afraid they will be cut out of the will.
+            - Example: when some Jews get saved, their family has their funeral.
+        - 1 Peter 1:3-4
+    - Family finances can cause problems:
+        - Overspending
+        - Covetousness
+        - Your testimony will suffer when you owe money.
