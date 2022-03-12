@@ -54,6 +54,7 @@ The world, the flesh, and the devil - see lesson on Spiritual Warfare.
 - Embarrassed 
     - You don't know what to say.
     - They don't know what to say.
+
 - The Gospel is foolishness to them that perish
 - They may be uncomfortable.
 - They may be looking for your mistakes.
@@ -71,6 +72,7 @@ The world, the flesh, and the devil - see lesson on Spiritual Warfare.
 - Besetting sin - Hebrews 12:1
 - Strong influence - Romans 6:13-19
     - Many years of sinful habits to overcome.
+
 - Keep your body under subjection - 1 Corinthians 9:27
     - Make if mind.
 
@@ -86,6 +88,7 @@ The world, the flesh, and the devil - see lesson on Spiritual Warfare.
     - The older you are, the longer you were in it, the harder it is.
     - 2 Peter 2:1-3
     - 1 John 4:1
+
 - False teachers prey on weak Christians.
     - They usually have zeal.
     - They seem to be doing something.
@@ -96,6 +99,7 @@ The world, the flesh, and the devil - see lesson on Spiritual Warfare.
 - God set up the church as the means of reaching the world.
 - Non-church, religious groups weaken the church - Masons, Elks, etc.
     - They take up time, talent, treasure.
+
 - They change the priority from being Bible-focused.
     - Relationship with the Lord
     - Soul-winning
