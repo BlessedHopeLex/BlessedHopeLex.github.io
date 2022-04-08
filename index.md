@@ -72,7 +72,7 @@ If you will trust Jesus Christ as your Savior, pray a simple prayer. Prayer is s
 
 If you have trusted Jesus Christ to save you, please let us know with a call or text at <a href="tel:8596215869">(859) 621-5869</a>. We'd like to be sure you have a Bible and help you grow as a new Christian.
 
-Once you are saved, you are saved for eternity. You cannot lose your salvation. No creature or thing can take it away from you.
+Once you are saved, you are saved for eternity. You cannot lose your salvation. No creature or thing can take it away from you. (Romans 8:38-39)
 
 God says: 
 I give unto them eternal life; and they shall never perish. (John 10:28)
