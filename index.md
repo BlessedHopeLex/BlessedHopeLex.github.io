@@ -66,7 +66,7 @@ Christ showed His great love for us when He died on the cross to pay our sin deb
 4. Trust Christ alone as your Saviour. 
 ...but the gift of God is eternal life through Jesus Christ our Lord. (Romans 6:23)
 For whosoever shall call upon the name of the Lord shall be saved. (Romans 10:13)
-Everlasting life is a gift purchased by the blood of Jesus and offered freely to those who call upon Him by faith. Let us help you word a prayer. (Realize that what saves is your faith in Jesus Christ, not saying mere words.)
+Everlasting life is a gift purchased by the blood of Jesus and offered freely to those who call upon Him by faith. Let us help you word a prayer. (Realize that what saves is your faith in Jesus Christ, not saying the "correct" words.)
 
 If you will trust Jesus Christ as your Savior, pray a simple prayer. Prayer is simply talking to God. Admit to Him that you know you are a sinner and that you deserve to pay your own sin debt. Acknowledge that Jesus died for you to pay the debt you owe. Today, as best as you know how, trust Him as your Savior. Tell Him you will depend on Him from this moment on for your salvation. Ask God to help you live for Him and be a good Christian.
 
