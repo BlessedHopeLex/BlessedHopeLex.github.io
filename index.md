@@ -1,6 +1,3 @@
-
-{% include bootstrap-alert-primary.md content="In order to promote social isolation, we are currently holding our services online via [Zoom](https://blessedhopelexington.com/zoom). Please feel free to join us during normal service hours!" %}
-
 We're glad that you're interested in visiting our church! We know you have questions, so here's how our page works: all you have to do is scroll down, and we will answer your [When](#when---visitor-information), [Where](#where---directions), [Who](#who---our-pastor), [Why](#why---salvation), and [What](#what-we-believe).
 
 
@@ -30,12 +27,12 @@ We also have Wednesday night services starting at 7:00 PM.
 
 ***
 
+You can join us in person at:
 
-{::options parse_block_html="true" /}
-<div class="alert alert-primary" role="alert">
-In order to promote social isolation, we are currently holding our services online via [Zoom](https://blessedhopelexington.com/zoom). Please feel free to join us during normal service hours!
-{: .m-0}
-</div>
+[1857 Gayle Dr](https://www.google.com/maps/dir//1857+Gayle+Dr,+Lexington,+KY+40505/@38.0474644,-84.4417119,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x88424562b817215f:0x32e6affec4bbaaf1!2m2!1d-84.4395232!2d38.0474602!3e0)  
+Lexington, Kentucky 40505
+
+Or online via [Zoom](https://blessedhopelexington.com/zoom).
 
 
 # Who - Our Pastor
@@ -44,7 +41,7 @@ In order to promote social isolation, we are currently holding our services onli
 
 
 ### Pastor James Coffman
-Pastor Coffman is a 1986 graduate of Hope Institute of the Scriptures in Toledo, Ohio. He and his wife, Shelly, have four children. He has been pastoring in Lexington, Kentucky for 25 years. He was saved at the age of twelve, raised in a godly home, and called to preach as a young man. He has a strong desire to take God's side in all that he does.
+Pastor Coffman is a 1986 graduate of Hope Institute of the Scriptures in Toledo, Ohio. He and his wife, Shelly, have four children. He has been pastoring in Lexington, Kentucky for 25 years. He was saved at the age of twelve, raised in a godly home, and called to preach as a young man. He has a strong desire to take God's side in all that he does. Pastor Coffman can be reached by call or text at <a href="tel:8596215869">(859) 621-5869</a>.
 
 
 # Why - Salvation
@@ -69,13 +66,13 @@ Christ showed His great love for us when He died on the cross to pay our sin deb
 4. Trust Christ alone as your Saviour. 
 ...but the gift of God is eternal life through Jesus Christ our Lord. (Romans 6:23)
 For whosoever shall call upon the name of the Lord shall be saved. (Romans 10:13)
-Everlasting life is a gift purchased by the blood of Jesus and offered freely to those who call upon Him by faith. Let us help you word a prayer. (Realize that what saves is your faith in Jesus Christ, not saying mere words.)
+Everlasting life is a gift purchased by the blood of Jesus and offered freely to those who call upon Him by faith. Let us help you word a prayer. (Realize that what saves is your faith in Jesus Christ, not saying the "correct" words.)
 
 If you will trust Jesus Christ as your Savior, pray a simple prayer. Prayer is simply talking to God. Admit to Him that you know you are a sinner and that you deserve to pay your own sin debt. Acknowledge that Jesus died for you to pay the debt you owe. Today, as best as you know how, trust Him as your Savior. Tell Him you will depend on Him from this moment on for your salvation. Ask God to help you live for Him and be a good Christian.
 
-If you have trusted Jesus Christ to save you, please let us know by e-mail or you can call (859) 621-8569. We'd like to be sure you have a Bible and help you grow as a new Christian.
+If you have trusted Jesus Christ to save you, please let us know with a call or text at <a href="tel:8596215869">(859) 621-5869</a>. We'd like to be sure you have a Bible and help you grow as a new Christian.
 
-Once you are saved, you are saved for eternity. You cannot lose your salvation. No creature or thing can take it away from you.
+Once you are saved, you are saved for eternity. You cannot lose your salvation. No creature or thing can take it away from you. (Romans 8:38-39)
 
 God says: 
 I give unto them eternal life; and they shall never perish. (John 10:28)
