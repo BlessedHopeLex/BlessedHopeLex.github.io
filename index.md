@@ -53,7 +53,7 @@ Pastor Coffman is a 1986 graduate of Hope Institute of the Scriptures in Toledo,
 
 1. Recognize your condition. 
 For all have sinned, and come short of the glory of God. (Romans 3:23)
-None of us is good enough to go to Heaven on our own merit. Because we are sinners, no matter how much good we do, we always fall short.
+None of us are good enough to go to Heaven on our own merit. Because we are sinners, no matter how much good we do, we always fall short.
 
 2. Realize the penalty for sin. 
 For the wages of sin is death... (Romans 6:23)
