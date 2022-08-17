@@ -4,6 +4,7 @@ google-drive-id: 1-8D31Xv60ErL_2BEbVmiVva0zOeSmaLn
 start-time-seconds: 0
 day-part: Evening
 tags: [wednesday-evening]
+preacher: James Coffman
 layout: default
 ---
 

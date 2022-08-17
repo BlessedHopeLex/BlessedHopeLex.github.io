@@ -4,6 +4,7 @@ google-drive-id: 126MtyZw4P5BEi_RxGTyhdtIJM0XFwHZH
 start-time-seconds: 0
 day-part: Morning
 tags: [sunday-morning]
+preacher: James Coffman
 layout: default
 ---
 

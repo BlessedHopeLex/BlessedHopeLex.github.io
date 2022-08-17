@@ -3,7 +3,8 @@ sermon-title: Church History 7
 google-drive-id: 1yaeydxRr7nEAaVER8i9JArBUivGklvmm
 start-time-seconds: 87
 day-part: Evening
-tags: [wednesday-evening church-hisotry]
+tags: [wednesday-evening church-history]
+preacher: Zack Warren
 layout: default
 ---
 

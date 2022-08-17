@@ -4,6 +4,7 @@ google-drive-id: 1qr720gU5nSs7I9MUJFnosSZf9oi3Nom0
 start-time-seconds: 0
 day-part: Evening
 tags: [sunday-evening discipleship-course]
+preacher: James Coffman
 layout: default
 ---
 
