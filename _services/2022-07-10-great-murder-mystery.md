@@ -1,14 +1,12 @@
 ---
-sermon-title: Proverbs 2
-google-drive-id: 1yP2Y0wfW5WgLtxzw2KbCo_0Ki3Vfg_LQ
+sermon-title: The Great Murder Mystery
+google-drive-id: 1Jwypu9k5dfcpDJPkMClc41Vz-gbMw30q
 start-time-seconds: 0
-day-part: Evening
-tags: [wednesday-evening proverbs]
+day-part: Morning
+tags: [sunday-morning]
 preacher: James Coffman
 layout: default
 ---
-
-# {{ page.sermon-title }}
 
 ##### {{ page.date | date: "%A, %B %-d, %Y" }} {{ page.day-part }} Service
 
@@ -29,3 +27,8 @@ layout: default
 {% endcapture %}
 
 {% include google-drive-audio.md drive-id=video-id start-time=start-time %}
+
+***
+
+# {{ page.sermon-title }}
+

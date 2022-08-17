@@ -1,14 +1,12 @@
 ---
-sermon-title: Proverbs 2
-google-drive-id: 1yP2Y0wfW5WgLtxzw2KbCo_0Ki3Vfg_LQ
+sermon-title: Soul Winning
+google-drive-id: 
 start-time-seconds: 0
 day-part: Evening
-tags: [wednesday-evening proverbs]
+tags: [sunday-evening]
 preacher: James Coffman
 layout: default
 ---
-
-# {{ page.sermon-title }}
 
 ##### {{ page.date | date: "%A, %B %-d, %Y" }} {{ page.day-part }} Service
 
@@ -29,3 +27,20 @@ layout: default
 {% endcapture %}
 
 {% include google-drive-audio.md drive-id=video-id start-time=start-time %}
+
+***
+
+# {{ page.sermon-title }}
+
+The Gospel: 1 Corinthians 15:1-4
+
+- Don't argue theological points with people who are lost.
+- Don't argue with someone who is religious.
+
+Ephesians 2:8-9
+
+1. A person must know they are a sinner. Romans 3:23, Revelation 21:8, Romans 6:23
+2. A person must know what Jesus Christ did for them. Romans 5:8, Romans 10:9-13, 2 Corinthians 5:21
+3. A person must receive Jesus Christ as their Savior. John 1:12
+
+"I think so" or "I hope so" isn't good enough. 1 John 5:13

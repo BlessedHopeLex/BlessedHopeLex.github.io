@@ -1,14 +1,12 @@
 ---
-sermon-title: Proverbs 2
-google-drive-id: 1yP2Y0wfW5WgLtxzw2KbCo_0Ki3Vfg_LQ
+sermon-title: Gnawed, Worn Away, Consumed
+google-drive-id: 1KuWv-vLt0_AhhVPCcMX3HOzmmca3PIDa
 start-time-seconds: 0
 day-part: Evening
-tags: [wednesday-evening proverbs]
-preacher: James Coffman
+tags: [sunday-evening]
+preacher: Zack Warren
 layout: default
 ---
-
-# {{ page.sermon-title }}
 
 ##### {{ page.date | date: "%A, %B %-d, %Y" }} {{ page.day-part }} Service
 
@@ -29,3 +27,8 @@ layout: default
 {% endcapture %}
 
 {% include google-drive-audio.md drive-id=video-id start-time=start-time %}
+
+***
+
+# {{ page.sermon-title }}
+

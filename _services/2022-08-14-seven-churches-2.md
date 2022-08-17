@@ -1,14 +1,12 @@
 ---
-sermon-title: Proverbs 2
-google-drive-id: 1yP2Y0wfW5WgLtxzw2KbCo_0Ki3Vfg_LQ
+sermon-title: Seven Churches 2
+google-drive-id: 1M8UyetVr-q9p7s8HI0Lnda2gy3ynWetp
 start-time-seconds: 0
 day-part: Evening
-tags: [wednesday-evening proverbs]
+tags: [sunday-evening]
 preacher: James Coffman
 layout: default
 ---
-
-# {{ page.sermon-title }}
 
 ##### {{ page.date | date: "%A, %B %-d, %Y" }} {{ page.day-part }} Service
 
@@ -29,3 +27,8 @@ layout: default
 {% endcapture %}
 
 {% include google-drive-audio.md drive-id=video-id start-time=start-time %}
+
+***
+
+# {{ page.sermon-title }}
+

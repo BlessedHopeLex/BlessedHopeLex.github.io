@@ -1,14 +1,12 @@
 ---
-sermon-title: Proverbs 2
-google-drive-id: 1yP2Y0wfW5WgLtxzw2KbCo_0Ki3Vfg_LQ
+sermon-title: Mothers or Monsters
+google-drive-id: 1F1IIZwgq3YiTGaDIQOOrT_WL5AQXzqqK
 start-time-seconds: 0
-day-part: Evening
-tags: [wednesday-evening proverbs]
+day-part: Morning
+tags: [sunday-morning]
 preacher: James Coffman
 layout: default
 ---
-
-# {{ page.sermon-title }}
 
 ##### {{ page.date | date: "%A, %B %-d, %Y" }} {{ page.day-part }} Service
 
@@ -29,3 +27,15 @@ layout: default
 {% endcapture %}
 
 {% include google-drive-audio.md drive-id=video-id start-time=start-time %}
+
+***
+
+# {{ page.sermon-title }}
+
+1 Kings 3:16-28
+
+2 Timothy 1:6,11
+
+Psalm 97:10, Proverbs 8:13, Amos 5:15, Micah 3:2
+
+2 Timothy 2:2
