@@ -1,14 +1,14 @@
 ---
-title: Past Services
+title: Sermons by Speaker
 ---
 
-# Past Services
+# Sermons by Speaker
 
-<a href="/services-speaker">Sermons by Speaker</a>
-
-<!-- <ul> -->
+{% assign grouped_speaker = site.services | group_by:"preacher" %}
+{% for speaker in grouped_speaker %}
+##### {% speaker.name %}
 <table>
-  {% assign sorted_day = site.services | sort: 'day-part' | reverse %}
+  {% assign sorted_day = grouped_speaker.items | sort: 'day-part' | reverse %}
   {% assign sorted = sorted_day | sort: 'date' | reverse %}
   {% for post in sorted %}
     {% if post.url %}
@@ -23,4 +23,4 @@ title: Past Services
     {% endif %}
   {% endfor %}
 </table>
-<!-- </ul> -->
+{% endfor %}
