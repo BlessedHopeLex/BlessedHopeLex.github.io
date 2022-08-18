@@ -6,7 +6,7 @@ title: Sermons by Speaker
 
 {% assign grouped_speaker = site.services | group_by:"preacher" %}
 {% for group in grouped_speaker %}
-##### {% group.name %}
+##### {{ group.name }}
 <table>
   {% assign sorted_day = group.items | sort: 'day-part' | reverse %}
   {% assign sorted = sorted_day | sort: 'date' | reverse %}
