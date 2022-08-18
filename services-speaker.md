@@ -5,7 +5,20 @@ title: Sermons by Speaker
 # Sermons by Speaker
 
 {% assign grouped_speaker = site.services | group_by:"preacher" %}
-{% for group in grouped_speaker %}
+{% assign sorted_speaker = grouped_speaker | sort: 'name' %}
+
+### Speakers
+{::options parse_block_html="true" /}
+<ul>
+{% for group in sorted_speaker %}
+    <li><a href="#{{group.name | replace: ' ', '-'}}">{{group.name}}</a></li>
+{% endfor %}
+</ul>
+<hr>
+{::options parse_block_html="false" /}
+
+
+{% for group in sorted_speaker %}
 ##### {{ group.name }}
 <table>
   {% assign sorted_day = group.items | sort: 'day-part' | reverse %}
