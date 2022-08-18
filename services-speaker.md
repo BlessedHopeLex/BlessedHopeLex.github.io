@@ -11,7 +11,7 @@ title: Sermons by Speaker
 {::options parse_block_html="true" /}
 <ul>
 {% for group in sorted_speaker %}
-    <li><a href="#{{group.name | replace: ' ', '-'}}">{{group.name}}</a></li>
+    <li><a href="#{{group.name | downcase | replace: ' ', '-'}}">{{group.name}}</a></li>
 {% endfor %}
 </ul>
 <hr>
