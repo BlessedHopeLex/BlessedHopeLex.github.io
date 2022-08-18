@@ -36,4 +36,5 @@ title: Sermons by Speaker
     {% endif %}
   {% endfor %}
 </table>
+<hr>
 {% endfor %}
