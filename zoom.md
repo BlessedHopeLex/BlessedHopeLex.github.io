@@ -1,12 +1,15 @@
-{% assign cur_day = 'now' | date: "%A" %}
-{% if cur_day != "Wednesday" and cur_day != "Sunday" %}
 {::options parse_block_html="true" /}
-<div class="alert alert-primary" role="alert">
-There are no live services today, but you can listen to one of our <a href="/services">recorded services</a>.
+<div id="noServicesAlert" style="display: none;" class="alert alert-primary" role="alert">
+There are no live services today, but you can listen to one of our <a href="/services">recorded services</a>. You can also take a look at our <a href="/">service schedule</a>.
 {: .m-0}
 </div>
+<script>
+    const current_day = new Date(new Date().toLocaleString("en-US", {timeZone: "America/New_York"})).getDay();
+    if (current_day != 0 && current_day != 3) {
+        $("#noServicesAlert").show();
+    }
+</script>
 {::options parse_block_html="false" /}
-{% endif %}
 
 
 # Zoom Instructions
