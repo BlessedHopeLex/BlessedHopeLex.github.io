@@ -1,3 +1,14 @@
+{% assign cur_day = 'now' | date: "%A" %}
+{% if cur_day != "Wednesday" and cur_day != "Sunday" %}
+{::options parse_block_html="true" /}
+<div class="alert alert-primary" role="alert">
+There are no live services today, but you can listen to one of our <a href="/services">recorded services</a>.
+{: .m-0}
+</div>
+{::options parse_block_html="false" /}
+{% endif %}
+
+
 # Zoom Instructions
 
 
