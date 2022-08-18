@@ -5,10 +5,10 @@ title: Sermons by Speaker
 # Sermons by Speaker
 
 {% assign grouped_speaker = site.services | group_by:"preacher" %}
-{% for speaker in grouped_speaker %}
-##### {% speaker.name %}
+{% for group in grouped_speaker %}
+##### {% group.name %}
 <table>
-  {% assign sorted_day = grouped_speaker.items | sort: 'day-part' | reverse %}
+  {% assign sorted_day = group.items | sort: 'day-part' | reverse %}
   {% assign sorted = sorted_day | sort: 'date' | reverse %}
   {% for post in sorted %}
     {% if post.url %}
