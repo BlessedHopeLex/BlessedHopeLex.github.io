@@ -1,9 +1,9 @@
 ---
-sermon-title: Seven Churches 4
-google-drive-id: 1Nw-84kiwn0LAKA5ExGhDeAFGqlUE_9mA
+sermon-title: The Valley of Dry Bones
+google-drive-id: 1OpHJvGaf3Pbn63S9zHHpbKzrZ_SwEtdq
 start-time-seconds: 0
-day-part: Evening
-tags: [sunday-evening seven-churches]
+day-part: Morning
+tags: [sunday-morning]
 preacher: James Coffman
 layout: default
 ---

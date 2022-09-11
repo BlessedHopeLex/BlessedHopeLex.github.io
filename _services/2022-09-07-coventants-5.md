@@ -1,14 +1,14 @@
 ---
-sermon-title: Seven Churches 4
-google-drive-id: 1Nw-84kiwn0LAKA5ExGhDeAFGqlUE_9mA
+sermon-title: Covenants 5
+google-drive-id: 1O_Za--3qwsA2nxjuQjmFwThGWaxNQZw1
 start-time-seconds: 0
 day-part: Evening
-tags: [sunday-evening seven-churches]
-preacher: James Coffman
+tags: [wednesday-evening covenants]
+preacher: Billy Sherrow
 layout: default
 ---
 
-##### {{ page.date | date: "%A, %B %-d, %Y" }} {{ page.day-part }} Service
+### {{ page.date | date: "%A, %B %-d, %Y" }} {{ page.day-part }} Service
 
 {% if page.start-time-seconds >= 1 %}
 {% capture starts-at-time %}
@@ -31,4 +31,3 @@ layout: default
 ***
 
 # {{ page.sermon-title }}
-

@@ -1,6 +1,6 @@
 ---
-sermon-title: Seven Churches 4
-google-drive-id: 1Nw-84kiwn0LAKA5ExGhDeAFGqlUE_9mA
+sermon-title: Seven Churches 6
+google-drive-id: 1PC88AGagzQTl4Kw7rYsXr364b3oZQnOL
 start-time-seconds: 0
 day-part: Evening
 tags: [sunday-evening seven-churches]
