@@ -31,3 +31,20 @@ layout: default
 ***
 
 # {{ page.sermon-title }}
+
+## Verse Comparisons
+
+- Proverbs 30:5 - [Other versions](https://www.biblegateway.com/verse/en/Proverbs%2030:5)
+- Proverbs 30:6 - [Other versions](https://www.biblegateway.com/verse/en/Proverbs%2030:6)
+- Deuteronomy 4:2 - [Other versions](https://www.biblegateway.com/verse/en/Deuteronomy%204:2)
+- Deuteronomy 12:32 - [Other versions](https://www.biblegateway.com/verse/en/Deuteronomy%2012:32)
+- Psalm 12:6 - [Other versions](https://www.biblegateway.com/verse/en/Psalm%2012:6)
+- Psalm 12:7 - [Other versions](https://www.biblegateway.com/verse/en/Psalm%2012:7)
+- 2 Timothy 3:15 - [Other versions](https://www.biblegateway.com/verse/en/2%20Timothy%203:15)
+- 2 Timothy 3:16 - [Other versions](https://www.biblegateway.com/verse/en/2%20Timothy%203:16)
+- Matthew 5:18 - [Other versions](https://www.biblegateway.com/verse/en/Matthew%205:18)
+- 2 Corinthians 2:17 - [Other versions](https://www.biblegateway.com/verse/en/2%20Corinthians%202:17)
+
+## Corrections
+
+"Auto" in "autograph" means "self," not "man" or "hand."
