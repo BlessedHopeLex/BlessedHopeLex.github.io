@@ -1,6 +1,6 @@
 ---
-sermon-title: Bible Versions 5
-google-drive-id: 1RdeGXFhc-hXO5SK0-7XWGfBzmMngi1xQ
+sermon-title: Bible Versions 6
+google-drive-id: 1SCQLzF0tT_J4OQ82f3vG2Og05WJOUfWL
 start-time-seconds: 0
 day-part: Evening
 tags: [wednesday-evening bible-versions]
