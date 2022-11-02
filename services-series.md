@@ -14,16 +14,16 @@ title: Sermons by Series
   {% assign posts = tag | last %}
 
   {% unless skipped_tags contains t %}
-        {% assign tag_name_array = ' ' | split: ',' %}
-        {% assign tag_array = t | split: '-' %}
-        {% for ta in tag_array %}
+        {% assign array_name = ' ' | split: ',' %}
+        {% assign array_tags = t | split: '-' %}
+        {% for ta in array_tags %}
             {% assign capit = ta | capitalize %}
-            {% tag_name_array = tag_name_array | push: capit %}
+            {% array_name = array_name | push: capit %}
         {% endfor %}
-        {% assign tag_name = tag_name_array | join: ' ' %}
+        {% assign name_tag = array_name | join: ' ' %}
         <li>
             <a href="#{{t | downcase | replace: ' ', '-'}}">
-                {{tag_name}}
+                {{name_tag}}
             </a>
         </li>
   {% endunless %}
@@ -40,14 +40,14 @@ title: Sermons by Series
   {% assign posts = tag | last %}
 
   {% unless skipped_tags contains t %}
-    {% assign tag_name_array = ' ' | split: ',' %}
-    {% assign tag_array = t | split: '-' %}
-    {% for ta in tag_array %}
+    {% assign array_name = ' ' | split: ',' %}
+    {% assign array_tags = t | split: '-' %}
+    {% for ta in array_tags %}
         {% assign capit = ta | capitalize %}
-        {% tag_name_array = tag_name_array | push: capit %}
+        {% array_name = array_name | push: capit %}
     {% endfor %}
-    {% assign tag_name = tag_name_array | join: ' ' %}
-#### {{tag_name}}
+    {% assign name_tag = array_name | join: ' ' %}
+#### {{name_tag}}
 <table>
     {% for post in posts %}
         {% if post.tags contains t %}
