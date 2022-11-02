@@ -2,7 +2,7 @@
 title: Sermons by Speaker
 ---
 
-# Sermons by Speaker
+# {{ page.title }}
 
 {% assign grouped_speaker = site.services | group_by:"preacher" %}
 {% assign sorted_speaker = grouped_speaker | sort: 'name' %}
