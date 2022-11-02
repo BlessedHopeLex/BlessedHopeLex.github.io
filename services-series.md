@@ -14,7 +14,7 @@ title: Sermons by Series
   {% assign posts = tag | last %}
 
   {% unless skipped_tags contains t %}
-        {% assign tag_name_array = '' | split: ',' %}
+        {% assign tag_name_array = ' ' | split: ',' %}
         {% assign tag_array = t | split: '-' %}
         {% for ta in tag_array %}
             {% assign capit = ta | capitalize %}
@@ -40,7 +40,7 @@ title: Sermons by Series
   {% assign posts = tag | last %}
 
   {% unless skipped_tags contains t %}
-    {% assign tag_name_array = '' | split: ',' %}
+    {% assign tag_name_array = ' ' | split: ',' %}
     {% assign tag_array = t | split: '-' %}
     {% for ta in tag_array %}
         {% assign capit = ta | capitalize %}
