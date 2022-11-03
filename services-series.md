@@ -18,7 +18,7 @@ title: Sermons by Series
         {% assign array_tags = t | split: '-' %}
         {% for ta in array_tags %}
             {% assign capit = ta | capitalize %}
-            {% array_name = array_name | push: capit %}
+            {% assign array_name = array_name | push: capit %}
         {% endfor %}
         {% assign name_tag = array_name | join: ' ' %}
         <li>
@@ -44,7 +44,7 @@ title: Sermons by Series
     {% assign array_tags = t | split: '-' %}
     {% for ta in array_tags %}
         {% assign capit = ta | capitalize %}
-        {% array_name = array_name | push: capit %}
+        {% assign array_name = array_name | push: capit %}
     {% endfor %}
     {% assign name_tag = array_name | join: ' ' %}
 #### {{name_tag}}
