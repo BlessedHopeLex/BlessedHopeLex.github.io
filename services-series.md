@@ -41,7 +41,7 @@ title: Sermons by Series
 ### Series
 {::options parse_block_html="true" /}
 <ul>
-{% for tag in site.tags %}
+{% for tag in tags %}
     <div>Tag: {{% tag | first %}}</div>
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
@@ -68,7 +68,7 @@ title: Sermons by Series
 
 
 {::options parse_block_html="true" /}
-{% for tag in site.tags %}
+{% for tag in tags %}
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
 
