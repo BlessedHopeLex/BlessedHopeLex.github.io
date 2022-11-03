@@ -4,20 +4,14 @@ title: Sermons by Series
 
 {% assign rawtags = "" %}
 {% for post in site.services %}
-  <!-- Debug -->
-  {{post.tags}}
   {% assign ttags = post.tags | join:'|' | append:'|' %}
   {% assign rawtags = rawtags | append:ttags %}
 {% endfor %}
 {% assign rawtags = rawtags | split:'|' | sort %}
-<!-- Debug -->
-{{rawtags}}
 
 {% assign site.tags = "" %}
 {% assign tags = "" %}
 {% for tag in rawtags %}
-  <!-- Debug -->
-  {{tag}}
   {% if tag != "" %}
     {% if tags == "" %}
       {% assign tags = tag | split:'|' %}
@@ -27,11 +21,7 @@ title: Sermons by Series
     {% endunless %}
   {% endif %}
 {% endfor %}
-<!-- Debug -->
-{{tags}}
 {% assign site.tags = tags %}
-<!-- Debug -->
-{{site.tags}}
 
 
 # {{ page.title }}
@@ -42,10 +32,6 @@ title: Sermons by Series
 {::options parse_block_html="true" /}
 <ul>
 {% for tag in tags %}
-    <!-- Debug -->
-    {{tag}}
-  {% assign t = tag | first %}
-
   {% unless skipped_tags contains tag %}
         {% assign array_name = ' ' | split: ',' %}
         {% assign array_tags = tag | split: '-' %}
@@ -55,7 +41,7 @@ title: Sermons by Series
         {% endfor %}
         {% assign name_tag = array_name | join: ' ' %}
         <li>
-            <a href="#{{t | downcase | replace: ' ', '-'}}">
+            <a href="#{{tag | downcase | replace: ' ', '-'}}">
                 {{name_tag}}
             </a>
         </li>
@@ -81,7 +67,7 @@ title: Sermons by Series
 #### {{name_tag}}
 <table>
     {% for post in site.posts %}
-        {% if post.tags contains t %}
+        {% if post.tags contains tag %}
         <tr>
           <td><a href="{{ post.url }}">{{ post.sermon-title }}</a></td>
           <td>{{ post.preacher }}</td>
