@@ -3,7 +3,7 @@ title: Sermons by Series
 ---
 
 {% assign rawtags = "" %}
-{% for post in site.posts %}
+{% for post in site.services %}
   {% assign ttags = post.tags | join:'|' | append:'|' %}
   {% assign rawtags = rawtags | append:ttags %}
 {% endfor %}
