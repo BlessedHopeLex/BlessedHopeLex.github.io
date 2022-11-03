@@ -4,14 +4,20 @@ title: Sermons by Series
 
 {% assign rawtags = "" %}
 {% for post in site.services %}
+  <!-- Debug -->
+  {{post.tags}}
   {% assign ttags = post.tags | join:'|' | append:'|' %}
   {% assign rawtags = rawtags | append:ttags %}
 {% endfor %}
 {% assign rawtags = rawtags | split:'|' | sort %}
+<!-- Debug -->
+{{rawtags}}
 
 {% assign site.tags = "" %}
 {% assign tags = "" %}
 {% for tag in rawtags %}
+  <!-- Debug -->
+  {{tag}}
   {% if tag != "" %}
     {% if tags == "" %}
       {% assign tags = tag | split:'|' %}
@@ -21,7 +27,11 @@ title: Sermons by Series
     {% endunless %}
   {% endif %}
 {% endfor %}
+<!-- Debug -->
+{{tags}}
 {% assign site.tags = tags %}
+<!-- Debug -->
+{{site.tags}}
 
 
 # {{ page.title }}
