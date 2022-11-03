@@ -3,7 +3,7 @@ sermon-title: Everyone Has Issues
 google-drive-id: 11AWCldSCHpVsp2V9ggXwBDD1gizwhOHf
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

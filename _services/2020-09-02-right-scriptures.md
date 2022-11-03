@@ -3,7 +3,7 @@ sermon-title: The Right Scriptures
 google-drive-id: 1-mb5yB2oJtSo8E42JZr7xrIf_b3isljk
 start-time-seconds: 0
 day-part: Evening
-tags: [wednesday-evening]
+tags: wednesday-evening
 preacher: James Coffman
 layout: default
 ---

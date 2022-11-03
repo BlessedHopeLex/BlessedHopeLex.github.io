@@ -3,7 +3,7 @@ sermon-title: No Place to Hide
 google-drive-id: 1Miu47jEphueSV8ekiwvy1jYj9b2UtDPr
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

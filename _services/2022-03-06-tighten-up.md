@@ -3,7 +3,7 @@ sermon-title: Time to Tighten Up
 google-drive-id: 19Gau9AmEDk8Nalbw8gPOilLHZ9nKBJn1
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

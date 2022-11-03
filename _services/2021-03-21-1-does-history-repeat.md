@@ -3,7 +3,7 @@ sermon-title: Does History Repeat Itself?
 google-drive-id: 1mV50I3rB3ui5bIkS6ULXw14kMwUkegvt
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

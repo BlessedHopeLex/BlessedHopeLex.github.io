@@ -3,7 +3,7 @@ sermon-title: Seven Churches 1
 google-drive-id: 1LWke8qLuTAzwAxQW1rxg5efX0LNQ3Rnl
 start-time-seconds: 0
 day-part: Evening
-tags: [sunday-evening seven-churches]
+tags: sunday-evening seven-churches
 preacher: James Coffman
 layout: default
 ---

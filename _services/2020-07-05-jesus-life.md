@@ -3,7 +3,7 @@ sermon-title: Jesus' Life
 google-drive-id: 1mqeffo52SNTn-aJ1qB6g1iFtF36_JTfG
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

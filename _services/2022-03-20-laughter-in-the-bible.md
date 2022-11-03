@@ -3,7 +3,7 @@ sermon-title: Laughter in the Bible
 google-drive-id: 1ApbgCuRdCQEOrBBjZ758Pbwmc3p7gVft
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

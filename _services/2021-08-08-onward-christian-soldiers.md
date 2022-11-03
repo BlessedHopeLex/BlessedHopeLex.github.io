@@ -3,7 +3,7 @@ sermon-title: Onward Christian Soldier
 google-drive-id: 1f6T1U6snMFVHaMEAx29rVVTFTHdM3H2H
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

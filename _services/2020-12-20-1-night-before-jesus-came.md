@@ -3,7 +3,7 @@ sermon-title: The Night Before Jesus Came
 google-drive-id: 1q6YVWIo92lFgtVuzfvUUntyNUOYWL3tq
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

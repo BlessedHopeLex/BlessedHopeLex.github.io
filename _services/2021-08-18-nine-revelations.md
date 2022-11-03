@@ -3,7 +3,7 @@ sermon-title: Nine Revelations
 google-drive-id: 1-05AlxDonSh9ZaUkrMMa-2ZF0D3_P0Tf
 start-time-seconds: 0
 day-part: Evening
-tags: [wednesday-evening]
+tags: wednesday-evening
 preacher: James Coffman
 layout: default
 ---

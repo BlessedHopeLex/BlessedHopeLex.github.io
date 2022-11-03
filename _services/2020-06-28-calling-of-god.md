@@ -3,7 +3,7 @@ sermon-title: The Calling of God
 google-drive-id: 1wLudcDmHgJq6fo7nvcwcjWv9QrGc5tgY
 start-time-seconds: 0
 day-part: Evening
-tags: [sunday-evening]
+tags: sunday-evening
 preacher: James Coffman
 layout: default
 ---

@@ -3,7 +3,7 @@ sermon-title: Be Reasonable
 google-drive-id: 1kucfP_qXo3UMuCEIfto0Hm5KUKRVkqX6
 start-time-seconds: 0
 day-part: Evening
-tags: [wednesday-evening]
+tags: wednesday-evening
 preacher: James Coffman
 layout: default
 ---

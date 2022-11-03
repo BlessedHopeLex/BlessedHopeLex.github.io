@@ -3,7 +3,7 @@ sermon-title: Ordinary People Living for an Extraordinary Savior
 google-drive-id: 1ANVbFOvq4UJEw3snKghGYsSUUzwCty1d
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

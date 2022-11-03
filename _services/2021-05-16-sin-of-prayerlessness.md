@@ -3,7 +3,7 @@ sermon-title: The Sin of Prayerlessness
 google-drive-id: 1WN_k2XfXUOId_xYGoGGoki2uMPImvzsT
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

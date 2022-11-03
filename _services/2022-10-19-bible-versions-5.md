@@ -3,7 +3,7 @@ sermon-title: Bible Versions 5
 google-drive-id: 1RdeGXFhc-hXO5SK0-7XWGfBzmMngi1xQ
 start-time-seconds: 0
 day-part: Evening
-tags: [wednesday-evening bible-versions]
+tags: wednesday-evening bible-versions
 preacher: Zack Warren
 layout: default
 ---

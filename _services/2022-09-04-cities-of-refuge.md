@@ -3,7 +3,7 @@ sermon-title: Cities of Refuge
 google-drive-id: 1O6pzSOi1pFOU6oHkEkA--KhJJ8xl6Wcr
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

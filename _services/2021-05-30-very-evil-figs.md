@@ -3,7 +3,7 @@ sermon-title: Very Evil Figs
 google-drive-id: 1E7dD_sni-i-JVNt9HNWAANzmj3uRWyEV
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

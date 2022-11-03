@@ -3,7 +3,7 @@ sermon-title: Questions That Won't Be Asked in Hell
 google-drive-id: 1DKyuO1KVAyDgXcTYJsKJ93JGFrR12mI7
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

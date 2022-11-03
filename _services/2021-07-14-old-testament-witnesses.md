@@ -3,7 +3,7 @@ sermon-title: Old Testament Witnesses
 google-drive-id: 1wtc6YLiJDSSQXk6rwfrOGsdD-PBG1KsX
 start-time-seconds: 0
 day-part: Evening
-tags: [wednesday-evening]
+tags: wednesday-evening
 preacher: James Coffman
 layout: default
 ---

@@ -3,7 +3,7 @@ sermon-title: Christians Struggle, Too
 google-drive-id: 17Q1poQEw0llTWJavYAyM4gAbgcd9kJIS
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

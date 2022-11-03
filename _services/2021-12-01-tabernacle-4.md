@@ -3,7 +3,7 @@ sermon-title: Tabernacle 4
 google-drive-id: 10Mfk_9GMRXT9z4PDZslKdO2JEKZ--U-W
 start-time-seconds: 0
 day-part: Evening
-tags: [wednesday-evening tabernacle]
+tags: wednesday-evening tabernacle
 preacher: Zack Warren
 layout: default
 ---

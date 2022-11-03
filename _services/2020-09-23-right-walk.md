@@ -3,7 +3,7 @@ sermon-title: A Right Walk
 google-drive-id: 1IfiCaunge0n1RwvSwCf1230po4o2VKSA
 start-time-seconds: 0
 day-part: Evening
-tags: [wednesday-evening]
+tags: wednesday-evening
 preacher: James Coffman
 layout: default
 ---

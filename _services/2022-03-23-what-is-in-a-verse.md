@@ -3,7 +3,7 @@ sermon-title: What's in a Verse?
 google-drive-id: 1BL5oXAf2fIQtdsJ3vR_M7qP2tRFGx2tz
 start-time-seconds: 0
 day-part: Evening
-tags: [wednesday-evening]
+tags: wednesday-evening
 preacher: Zack Warren
 layout: default
 ---

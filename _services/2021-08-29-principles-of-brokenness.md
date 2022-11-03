@@ -3,7 +3,7 @@ sermon-title: The Principles of Brokenness
 google-drive-id: 1KLooBC-deeV6J5Mqlp35XLWfFQ-KOkZ2
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

@@ -3,7 +3,7 @@ sermon-title: Fire, Lions, and Hurricanes
 google-drive-id: 1SEIEB1eOHajKKIDOflaMDPgaumlW_yOg
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

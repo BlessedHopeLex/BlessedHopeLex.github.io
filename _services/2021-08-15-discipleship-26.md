@@ -3,7 +3,7 @@ sermon-title: Discipleship Course 26
 google-drive-id: 1rRo5dzDlDTNDGSm1fhy1tSHyYllI_lQW
 start-time-seconds: 0
 day-part: Evening
-tags: [sunday-evening discipleship-course]
+tags: sunday-evening discipleship-course
 preacher: James Coffman
 layout: default
 ---

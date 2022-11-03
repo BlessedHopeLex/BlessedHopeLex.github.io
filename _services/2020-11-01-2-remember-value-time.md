@@ -3,7 +3,7 @@ sermon-title: Remember the Value of Time
 google-drive-id: 1U9wa9e55G5XdOtYm5LFa9M748-1XgcVF
 start-time-seconds: 0
 day-part: Evening
-tags: [sunday-evening]
+tags: sunday-evening
 preacher: James Coffman
 layout: default
 ---

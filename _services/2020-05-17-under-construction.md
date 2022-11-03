@@ -3,7 +3,7 @@ sermon-title: Under Construction
 google-drive-id: 1UHOEeDa-j557-x15bljW_YWaK-qWv3RA
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

@@ -3,7 +3,7 @@ sermon-title: Garbage Hinders
 google-drive-id: 1ZiQ-g2N-Qw_FTtriaA-_5SSCYsg3QHlX
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

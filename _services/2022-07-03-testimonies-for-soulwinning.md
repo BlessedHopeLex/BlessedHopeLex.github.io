@@ -3,7 +3,7 @@ sermon-title: Seven Testimonies for Soulwinning
 google-drive-id: 1JbfWs2-kaEwxzVEt0rJWz-eogpHLInMR
 start-time-seconds: 0
 day-part: Evening
-tags: [sunday-evening]
+tags: sunday-evening
 preacher: James Coffman
 layout: default
 ---

@@ -3,7 +3,7 @@ sermon-title: On the Other Side
 google-drive-id: 1R4cfzw_llJFwlpeB2BBRz67t2oC5yEzT
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

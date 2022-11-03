@@ -3,7 +3,7 @@ sermon-title: What Does This Time of Year Mean to Me?
 google-drive-id: 1hevuwvApL4Lg_tPkImDtVA1NFrwnuL1O
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

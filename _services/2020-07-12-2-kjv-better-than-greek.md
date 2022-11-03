@@ -3,7 +3,7 @@ sermon-title: KJV Better Than Greek/Hebrew
 google-drive-id: 17L-5nWzMAJ7H2c14s7q9a3XFJQjS2dos
 start-time-seconds: 0
 day-part: Evening
-tags: [sunday-evening]
+tags: sunday-evening
 preacher: James Coffman
 layout: default
 ---

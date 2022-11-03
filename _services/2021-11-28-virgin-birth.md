@@ -3,7 +3,7 @@ sermon-title: The Virgin Birth
 google-drive-id: 1-tDDYz-qWPYNUrLzAUuGC91qWEHjDlxD
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

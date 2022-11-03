@@ -3,7 +3,7 @@ sermon-title: The Queen Came to See
 google-drive-id: 17o2cq702hRk02JG02dVKSa4IsVRb3HNj
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

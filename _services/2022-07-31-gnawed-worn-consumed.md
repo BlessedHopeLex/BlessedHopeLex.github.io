@@ -3,7 +3,7 @@ sermon-title: Gnawed, Worn Away, Consumed
 google-drive-id: 1KuWv-vLt0_AhhVPCcMX3HOzmmca3PIDa
 start-time-seconds: 0
 day-part: Evening
-tags: [sunday-evening]
+tags: sunday-evening
 preacher: Zack Warren
 layout: default
 ---

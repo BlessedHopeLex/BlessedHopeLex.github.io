@@ -3,7 +3,7 @@ sermon-title: He That Winneth Souls Is Wise
 google-drive-id: 1zEBZBmbLWBEgRQJHyHALbMWUSQRxrpFK
 start-time-seconds: 0
 day-part: Evening
-tags: [wednesday-evening]
+tags: wednesday-evening
 preacher: James Coffman
 layout: default
 ---

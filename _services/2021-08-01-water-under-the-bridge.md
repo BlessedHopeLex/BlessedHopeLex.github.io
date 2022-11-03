@@ -3,7 +3,7 @@ sermon-title: Water Under the Bridge
 google-drive-id: 1Jihgvpa_bIBbAVn8zD2OY8R1qMmYdCOF
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

@@ -3,7 +3,7 @@ sermon-title: God's Goodness vs Man's Rottenness
 google-drive-id: 16cjCvedrG-RwdUaAbtcBJb9HiPn9Dv-O
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

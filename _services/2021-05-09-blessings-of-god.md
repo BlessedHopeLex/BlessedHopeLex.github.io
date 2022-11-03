@@ -3,7 +3,7 @@ sermon-title: The Blessings of God
 google-drive-id: 1fKYwsQq10glle2YM1sOdO-hEvgaZN9yA
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

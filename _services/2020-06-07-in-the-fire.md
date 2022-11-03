@@ -3,7 +3,7 @@ sermon-title: In The Fire
 google-drive-id: 1Rlo-uXLdaqJeqRhMsmbCPZcomctfQev1
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

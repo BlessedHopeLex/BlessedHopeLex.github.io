@@ -3,7 +3,7 @@ sermon-title: The Great Work
 google-drive-id: 1X-DdK-8LsBpudcMAyDiDXtaNnXk1vb5_
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

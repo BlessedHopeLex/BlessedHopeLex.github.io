@@ -3,7 +3,7 @@ sermon-title: God Give Us Men With Bark On Them
 google-drive-id: 1Lshk2hq8S0ZUNnrvwkTqPX3B-lQtHA1x
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

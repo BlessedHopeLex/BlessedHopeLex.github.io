@@ -3,7 +3,7 @@ sermon-title: Crowns for Today
 google-drive-id: 12jigp5udrPEkLUvHStVJDXmrVCfTuSGf
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

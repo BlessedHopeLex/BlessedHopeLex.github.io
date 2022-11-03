@@ -3,7 +3,7 @@ sermon-title: Behold Our God
 google-drive-id: 14oVTRXZZJ2i4cbflDzv5hmIxR7eX8lC8
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

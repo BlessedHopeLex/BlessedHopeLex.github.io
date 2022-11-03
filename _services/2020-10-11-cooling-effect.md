@@ -3,7 +3,7 @@ sermon-title: The Cooling Effect
 google-drive-id: 1cn0QzQjo-g9-MoywcjJrV7AEz1zAmGRp
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

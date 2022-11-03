@@ -3,7 +3,7 @@ sermon-title: What God is Interested In
 google-drive-id: 11f1BqzhRDCADHchXXgm_KNPDk9MlLJ6l
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

@@ -3,7 +3,7 @@ sermon-title: Thanksliving
 google-drive-id: 1-HkmhoP8KZnSIvzGwIIqqwGQZfVFCgqA
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

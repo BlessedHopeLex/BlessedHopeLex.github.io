@@ -3,7 +3,7 @@ sermon-title: The Beginning of Christ's Preeminence
 google-drive-id: 11mfSOZ4XbpFgrW2JKII6Beq-ZMm1VNtX
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

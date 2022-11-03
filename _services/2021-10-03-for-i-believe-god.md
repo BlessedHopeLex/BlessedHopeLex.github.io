@@ -3,7 +3,7 @@ sermon-title: For I Believe God
 google-drive-id: 13UidWcpGgIF_8_TmVc52GrcCR1dIiZhK
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

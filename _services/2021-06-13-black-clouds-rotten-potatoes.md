@@ -3,7 +3,7 @@ sermon-title: Black Clouds and Rotten Potatoes
 google-drive-id: 11bDUZhyLog_LLL80VJZG0fQwPUjCFiI1
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

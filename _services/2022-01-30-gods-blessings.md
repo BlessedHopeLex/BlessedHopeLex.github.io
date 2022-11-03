@@ -3,7 +3,7 @@ sermon-title: God's Blessings
 google-drive-id: 15qbiypkSUu7cI1YjsVRyLTZdYB7cDLX2
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

@@ -3,7 +3,7 @@ sermon-title: Oh What a Savior
 google-drive-id: 1NgJF8Y7kTrxT5QmPW_jb2qgNFA-nSj0F
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

@@ -3,7 +3,7 @@ sermon-title: The Valley of Dry Bones
 google-drive-id: 1OpHJvGaf3Pbn63S9zHHpbKzrZ_SwEtdq
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

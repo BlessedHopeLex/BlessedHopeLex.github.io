@@ -3,7 +3,7 @@ sermon-title: Back to Bethel
 google-drive-id: 1R8ywOsRChqqA-YMV_6SdfkB3zBvCa7VK
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

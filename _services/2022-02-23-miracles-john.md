@@ -3,7 +3,7 @@ sermon-title: Miracles in John
 google-drive-id: 18LkQQhwWD1WGZ4FcFyvG_IgMMcEAEaDC
 start-time-seconds: 0
 day-part: Evening
-tags: [wednesday-evening]
+tags: wednesday-evening
 preacher: Billy Sherrow
 layout: default
 ---

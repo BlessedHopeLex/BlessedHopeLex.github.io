@@ -3,7 +3,7 @@ sermon-title: Involvement That Makes a Difference
 google-drive-id: 1JgX1vcYCqoeF4NN87JALj1EP0NkY5e0j
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

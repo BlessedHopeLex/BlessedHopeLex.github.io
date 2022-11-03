@@ -3,7 +3,7 @@ sermon-title: The Lord Never Fails
 google-drive-id: 1n4KCazSySK6uE4uaELtO0g_vs8GyVrc9
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

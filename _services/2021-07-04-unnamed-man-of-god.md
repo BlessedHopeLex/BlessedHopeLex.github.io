@@ -3,7 +3,7 @@ sermon-title: The Unnamed Man of God
 google-drive-id: 1FcnSerhNUlw5cHFwckWOfb4Kvl86xCsN
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

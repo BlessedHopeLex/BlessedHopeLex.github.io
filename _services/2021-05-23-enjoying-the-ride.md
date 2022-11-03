@@ -3,7 +3,7 @@ sermon-title: Enjoying the Ride
 google-drive-id: 1Jdo6MAJYgpoehYWVVw_2nbRgjsFM4y4c
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

@@ -3,7 +3,7 @@ sermon-title: He Must Increase, I Must Decrease
 google-drive-id: 187C9bEz0X0gbq1Wa2-4-9ZMTUiY2NLa1
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

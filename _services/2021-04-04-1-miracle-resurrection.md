@@ -3,7 +3,7 @@ sermon-title: The Miracle of the Resurrection
 google-drive-id: 1kk0tHann3BSL0T4Z6mO87kTX_PV3PXDL
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

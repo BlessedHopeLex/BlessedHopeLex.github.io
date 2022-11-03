@@ -3,7 +3,7 @@ sermon-title: Hope So or Sure?
 google-drive-id: 14FxbHoBgsbv4BvXz0GQAqbel9vmQKb_4
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

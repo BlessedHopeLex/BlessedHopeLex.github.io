@@ -3,7 +3,7 @@ sermon-title: Is There Not A Cause
 google-drive-id: 1_70gozXa4RS46OoA6QgDNavX-GxQ262w
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

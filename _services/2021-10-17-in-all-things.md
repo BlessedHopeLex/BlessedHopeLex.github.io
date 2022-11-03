@@ -3,7 +3,7 @@ sermon-title: In All Things
 google-drive-id: 1CNq-QyHtnoGIGCCYujUAydVHP--gNx76
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

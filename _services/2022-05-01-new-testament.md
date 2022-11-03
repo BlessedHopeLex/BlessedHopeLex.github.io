@@ -3,7 +3,7 @@ sermon-title: New Testament
 google-drive-id: 1EcPj9tuPptqm3H-QGpHwN1tQCR7-t5hF
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: Billy Sherrow
 layout: default
 ---

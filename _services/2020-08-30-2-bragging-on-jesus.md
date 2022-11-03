@@ -3,7 +3,7 @@ sermon-title: Bragging on Jesus Christ
 google-drive-id: 1sBOeINiwRMa3fHmOof7mHwiD7GBch5z3
 start-time-seconds: 0
 day-part: Evening
-tags: [sunday-evening]
+tags: sunday-evening
 preacher: James Coffman
 layout: default
 ---

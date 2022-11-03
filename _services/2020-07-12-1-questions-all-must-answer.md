@@ -3,7 +3,7 @@ sermon-title: Questions All Must Answer
 google-drive-id: 1seTNbVBMJbJtaCGzT6iRM47QFfvVwD-3
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

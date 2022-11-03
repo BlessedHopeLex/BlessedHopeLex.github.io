@@ -3,7 +3,7 @@ sermon-title: The Visitation
 google-drive-id: 1Q4g-9FWkWLbuEPqR9ohf1tFP4oFTK_UH
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

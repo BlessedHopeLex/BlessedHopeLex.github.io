@@ -3,7 +3,7 @@ sermon-title: What Barabbas Knew
 google-drive-id: 19-ekIocpfE7lVn6XpFlY21XKMOo8R-yr
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

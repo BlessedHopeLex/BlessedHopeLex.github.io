@@ -3,7 +3,7 @@ sermon-title: Sowing and Reaping (pt. 2)
 google-drive-id: 1r_YhHkKq8eEXqShsuNIAnN4GMsVWH7hR
 start-time-seconds: 0
 day-part: Evening
-tags: [wednesday-evening]
+tags: wednesday-evening
 preacher: James Coffman
 layout: default
 ---

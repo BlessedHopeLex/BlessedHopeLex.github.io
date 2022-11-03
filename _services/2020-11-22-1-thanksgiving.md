@@ -3,7 +3,7 @@ sermon-title: Thanksgiving
 google-drive-id: 14zTukTMntc6SeXKQ__5FGncx8NqXjw5j
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

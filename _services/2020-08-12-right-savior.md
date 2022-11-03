@@ -3,7 +3,7 @@ sermon-title: The Right Savior
 google-drive-id: 1dczclJHT7jGKs8VlQsZ5Q0mWk6CfaNo1
 start-time-seconds: 0
 day-part: Evening
-tags: [wednesday-evening]
+tags: wednesday-evening
 preacher: James Coffman
 layout: default
 ---

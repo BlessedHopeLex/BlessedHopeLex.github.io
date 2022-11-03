@@ -3,7 +3,7 @@ sermon-title: Living in Light of Forgiveness
 google-drive-id: 1LH6roxEScTJLYRc3x_vMTFvfiHaYa2Ia
 start-time-seconds: 0
 day-part: Evening
-tags: [sunday-evening]
+tags: sunday-evening
 preacher: James Coffman
 layout: default
 ---

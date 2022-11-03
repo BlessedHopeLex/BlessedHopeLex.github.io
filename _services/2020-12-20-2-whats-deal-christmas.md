@@ -3,7 +3,7 @@ sermon-title: What's the Deal with Christmas?
 google-drive-id: 17AqZfATNaA9zAuxCODPWW64iNmQyAs38
 start-time-seconds: 0
 day-part: Evening
-tags: [sunday-evening]
+tags: sunday-evening
 preacher: James Coffman
 layout: default
 ---

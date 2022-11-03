@@ -3,7 +3,7 @@ sermon-title: Remember the Influence of Example
 google-drive-id: 1sAQzzPOdUDgw3UVECKdUpgqI4AJuxFJ0
 start-time-seconds: 0
 day-part: Evening
-tags: [sunday-evening]
+tags: sunday-evening
 preacher: James Coffman
 layout: default
 ---

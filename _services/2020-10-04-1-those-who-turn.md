@@ -3,7 +3,7 @@ sermon-title: Those Who Came to David
 google-drive-id: 15szbpWNLxhdNNkOTNxB-QQ_hz75aZmkQ
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

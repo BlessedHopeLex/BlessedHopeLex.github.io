@@ -3,7 +3,7 @@ sermon-title: The Great Murder Mystery
 google-drive-id: 1Jwypu9k5dfcpDJPkMClc41Vz-gbMw30q
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

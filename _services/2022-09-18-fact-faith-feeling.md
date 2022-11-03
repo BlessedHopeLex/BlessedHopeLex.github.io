@@ -3,7 +3,7 @@ sermon-title: Fact, Faith, Feeling
 google-drive-id: 1PedNWdfTZ-3iHSsXxDmh1pNr-eAhz-3d
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: Zack Warren
 layout: default
 ---

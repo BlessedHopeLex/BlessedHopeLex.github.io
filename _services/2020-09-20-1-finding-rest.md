@@ -3,7 +3,7 @@ sermon-title: Finding Rest For Your Soul
 google-drive-id: 1hbvfJ4_JRbTm4hhz6PrAEde2lWP8AqMb
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

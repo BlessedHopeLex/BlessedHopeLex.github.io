@@ -3,7 +3,7 @@ sermon-title: Proverbs 11 Continued
 google-drive-id: 1GS8Xh5bqpIoCfgpFdDEV9pponO19ve4r
 start-time-seconds: 0
 day-part: Evening
-tags: [wednesday-evening proverbs]
+tags: wednesday-evening proverbs
 preacher: James Coffman
 layout: default
 ---

@@ -3,7 +3,7 @@ sermon-title: Falling in the House of Grace
 google-drive-id: 1_kfmp31wxMRLQ7tCfcOAerQotGShQWAW
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

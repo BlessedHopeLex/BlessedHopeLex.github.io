@@ -3,7 +3,7 @@ sermon-title: Sealed for a Purpose
 google-drive-id: 1W82vM_1X_z-nyEMvuB2lyTZUvvRyUAaN
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

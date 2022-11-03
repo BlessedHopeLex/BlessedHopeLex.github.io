@@ -3,7 +3,7 @@ sermon-title: A Great Woman
 google-drive-id: 1ruvcHK4jrUBIB2AOZxAVYUM1pOrpFrgv
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

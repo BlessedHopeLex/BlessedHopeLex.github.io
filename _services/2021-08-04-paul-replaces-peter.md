@@ -3,7 +3,7 @@ sermon-title: Paul Replaces Peter
 google-drive-id: 1C4ZfpQYIDngdMGCBrf_Y7v04J3HBOYaX
 start-time-seconds: 0
 day-part: Evening
-tags: [wednesday-evening]
+tags: wednesday-evening
 preacher: James Coffman
 layout: default
 ---

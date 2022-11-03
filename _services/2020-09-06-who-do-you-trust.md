@@ -3,7 +3,7 @@ sermon-title: Who Do You Trust
 google-drive-id: 
 start-time-seconds: 0
 day-part: Morning
-tags: [sunday-morning]
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---

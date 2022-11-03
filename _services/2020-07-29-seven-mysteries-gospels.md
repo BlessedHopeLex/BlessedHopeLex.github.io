@@ -3,7 +3,7 @@ sermon-title: Seven Mysteries and Seven Gospels
 google-drive-id: 114JVKvSi3zTbL4E1NXb6ozarIe33P8G6
 start-time-seconds: 0
 day-part: Evening
-tags: [wednesday-evening]
+tags: wednesday-evening
 preacher: James Coffman
 layout: default
 ---

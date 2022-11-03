@@ -3,7 +3,7 @@ sermon-title: Questions and Answers
 google-drive-id: 1ukuFpKGgY9WM_mzIH9gXN6gJJsQSCDLY
 start-time-seconds: 0
 day-part: Evening
-tags: [wednesday-evening]
+tags: wednesday-evening
 preacher: James Coffman
 layout: default
 ---
