@@ -10,6 +10,7 @@ title: Sermons by Series
 {::options parse_block_html="true" /}
 <ul>
 {% for tag in site.tags %}
+    <div>Tag: {{% tag | first %}}</div>
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
 
