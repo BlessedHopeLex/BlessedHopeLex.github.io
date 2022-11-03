@@ -43,14 +43,12 @@ title: Sermons by Series
 <ul>
 {% for tag in tags %}
     <!-- Debug -->
-    <div>Tag: {{% tag | first %}}</div>
     {{tag}}
   {% assign t = tag | first %}
-  {% assign posts = tag | last %}
 
-  {% unless skipped_tags contains t %}
+  {% unless skipped_tags contains tag %}
         {% assign array_name = ' ' | split: ',' %}
-        {% assign array_tags = t | split: '-' %}
+        {% assign array_tags = tag | split: '-' %}
         {% for ta in array_tags %}
             {% assign capit = ta | capitalize %}
             {% assign array_name = array_name | push: capit %}
@@ -71,12 +69,10 @@ title: Sermons by Series
 
 {::options parse_block_html="true" /}
 {% for tag in tags %}
-  {% assign t = tag | first %}
-  {% assign posts = tag | last %}
 
-  {% unless skipped_tags contains t %}
+  {% unless skipped_tags contains tag %}
     {% assign array_name = ' ' | split: ',' %}
-    {% assign array_tags = t | split: '-' %}
+    {% assign array_tags = tag | split: '-' %}
     {% for ta in array_tags %}
         {% assign capit = ta | capitalize %}
         {% assign array_name = array_name | push: capit %}
@@ -84,7 +80,7 @@ title: Sermons by Series
     {% assign name_tag = array_name | join: ' ' %}
 #### {{name_tag}}
 <table>
-    {% for post in posts %}
+    {% for post in site.posts %}
         {% if post.tags contains t %}
         <tr>
           <td><a href="{{ post.url }}">{{ post.sermon-title }}</a></td>
