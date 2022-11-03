@@ -67,7 +67,7 @@ title: Sermons by Series
 #### {{name_tag}}
 <table>
     {% for post in site.posts %}
-        {% if post.tags contains tag %}
+        {% if post.tags | split: ' ' | contains tag %}
         <tr>
           <td><a href="{{ post.url }}">{{ post.sermon-title }}</a></td>
           <td>{{ post.preacher }}</td>
