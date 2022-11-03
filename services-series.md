@@ -42,7 +42,9 @@ title: Sermons by Series
 {::options parse_block_html="true" /}
 <ul>
 {% for tag in tags %}
+    <!-- Debug -->
     <div>Tag: {{% tag | first %}}</div>
+    {{tag}}
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
 
