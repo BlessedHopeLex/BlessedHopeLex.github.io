@@ -10,6 +10,7 @@ title: Sermons by Series
 {% assign rawtags = rawtags | split:'|' | sort %}
 
 {% assign site.tags = "" %}
+{% assign tags = "" %}
 {% for tag in rawtags %}
   {% if tag != "" %}
     {% if tags == "" %}
@@ -20,6 +21,7 @@ title: Sermons by Series
     {% endunless %}
   {% endif %}
 {% endfor %}
+{% assign site.tags = tags %}
 
 
 # {{ page.title }}
