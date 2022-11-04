@@ -66,8 +66,7 @@ title: Sermons by Series
     {% assign name_tag = array_name | join: ' ' %}
 #### {{name_tag}}
 <table>
-    {% for post in site.posts %}
-      {{post.tags}}
+    {% for post in site.services %}
       {% assign post_tags = post.tags | split: ' ' %}
         {% if post_tags contains tag %}
         <tr>
