@@ -67,6 +67,7 @@ title: Sermons by Series
 #### {{name_tag}}
 <table>
     {% for post in site.posts %}
+      {{post.tags}}
       {% assign post_tags = post.tags | split: ' ' %}
         {% if post_tags contains tag %}
         <tr>
