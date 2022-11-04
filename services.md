@@ -6,6 +6,7 @@ title: Past Services
 
 {::options parse_block_html="true" /}
 <a class="btn btn-primary" href="/services-speaker">Sermons by Speaker</a>
+<a class="btn btn-primary" href="/services-series">Sermons by Series</a>
 {: .m-0}
 {::options parse_block_html="false" /}
 
