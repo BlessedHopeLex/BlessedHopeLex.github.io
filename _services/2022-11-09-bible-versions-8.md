@@ -46,8 +46,9 @@ The following are quotes from Westcott and Hort:
 
 - “... the popular doctrine of substitution is an immoral and material counterfeit. ... Certainly nothing could be more unscriptural than the modern limiting of Christ’s bearing our sins and sufferings to his death; but indeed that is only one aspect of an almost universal heresy” (Hort to Westcott, 1860, cited in Life of Hort, Vol. I, p. 430)
 
-- [Commenting on John 1:29, 13:31] “... the redemptive efficacy of Christ’s work is to be found in His whole life. ... The redemptive work of Christ essentially was completed [by the time of His discourse in John 13]” (Westcott, The Gospel According to St. John, pp. 20, 196).
+- [Commenting on John 1:29; 13:31] “... the redemptive efficacy of Christ’s work is to be found in His whole life. ... The redemptive work of Christ essentially was completed [by the time of His discourse in John 13]” (Westcott, The Gospel According to St. John, pp. 20, 196).
 	- This makes it obvious why they removed "through his blood"
+    
 
 - The following statement, which Hort wrote to Westcott in 1861, speaks for itself: “This may sound cowardice--I have a craving that our Text [their critical New Testament] should be cast upon the world before we deal with MATTERS LIKELY TO BRAND US WITH SUSPICION. I mean a text issued by men who are already known for what WILL UNDOUBTEDLY BE TREATED AS DANGEROUS HERESY will have great difficulty in finding its way to regions which it might otherwise hope to reach and whence it would not be easily banished by subsequent alarms. … If only we speak our minds, we shall not be able to avoid giving grave offence to the miscalled orthodoxy of the day” (Hort, Life and Letters of Hort, Vol. I, pp, 421, 445). 
 
