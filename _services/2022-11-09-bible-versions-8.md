@@ -56,6 +56,13 @@ The following are quotes from Westcott and Hort:
 - Westcott and Hort were on the committee that put out the Revised Version (RV) in 1881
     - They were supposed to "adapt King James' version to the present state of the English language without changing the idiom and vocabulary".
 	- They did not do that. They brought in a different text and "corrected" the King James in many places. "In the New Testament alone more than 30,000 changes were made…"
-    - See https://en.wikipedia.org/wiki/Revised_Version#Features
+    - See [Revision Revised](https://en.wikipedia.org/wiki/Revised_Version#Features) on Wikipedia
 
-- Their theories on manuscripts and the Bible's text were answered in their day by Dean John Burgon. You can find his works (especially "The Revision Revised") in the public domain as digital books here: https://www.gutenberg.org/ebooks/search/?query=john+burgon&submit_search=Go%21. You can also find his works as print books at amazon.com or kjv1611.org.
+- Their theories on manuscripts and the Bible's text were answered in their day by Dean John Burgon. You can find his works (especially "The Revision Revised") in the public domain as [digital books](https://www.gutenberg.org/ebooks/search/?query=john+burgon&submit_search=Go%21). You can also find his works as print books at amazon.com or [kjv1611.org](kjv1611.org).
+
+### Further Resources
+
+- [Answering the Myths of the Bible Version Debate](https://www.wayoflife.org/free_ebooks/answering-the-myths-of-the-bible-version-debate.php)
+- [The Bible Version Question & Answer Database](https://www.wayoflife.org/free_ebooks/bible_version_question_answer_database.php)
+- [The Modern Bible Version Hall of Shame](https://www.wayoflife.org/free_ebooks/modern_bible_version_hall_of_shame.php)
+- [Rome and the Bible](https://www.wayoflife.org/free_ebooks/rome_and_the_bible.php)
