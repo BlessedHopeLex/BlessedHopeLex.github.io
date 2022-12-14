@@ -72,13 +72,13 @@ So now we have some people bringing up something they see as an issue: have you 
 
 The problems with saying translation can not be inspired:
 - OT quotes in the NT
-    - The NT quotes the OT at least 300 times - https://christianity.stackexchange.com/a/61767
+    - The NT quotes the OT at least 300 times - [https://christianity.stackexchange.com/a/61767](https://christianity.stackexchange.com/a/61767)
     - Originally written in Hebrew in the OT, but written in Greek in the NT.
         - Were those quotes inspired?
 - When Jesus spoke in Hebrew in NT
     - Acts 26:14 - And when we were all fallen to the earth, I heard a voice speaking unto me, and saying in the Hebrew tongue, Saul, Saul, why persecutest thou me? it is hard for thee to kick against the pricks.
 - When Paul spoke in Hebrew
-    - Acts 21:40, 22:2 - And when he had given him licence, Paul stood on the stairs, and beckoned with the hand unto the people. And when there was made a great silence, he spake unto them in the Hebrew tongue, saying, 
+    - Acts 21:40; Acts 22:2 - And when he had given him licence, Paul stood on the stairs, and beckoned with the hand unto the people. And when there was made a great silence, he spake unto them in the Hebrew tongue, saying, 
 - Genesis 11:1,5-9 - God created languages. Can He not translate between them?
 - the word "translate" inthe  Bible
     - 2 Samuel 3:10 - To translate the kingdom from the house of Saul, and to set up the throne of David over Israel and over Judah, from Dan even to Beer-sheba.
