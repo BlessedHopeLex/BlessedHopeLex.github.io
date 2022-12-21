@@ -56,7 +56,7 @@ A common thing that people say is, "The King James is hard for me to understand.
                 - It gives extra information. "Ye" is not the same as "you." "Ye" is always plural.
                 - The Bible isn't supposed to sound just like you because It isn't just like you.
                     - It is better than you. 
-                        - Isaiah 55:6-9 (KJV) Seek ye the LORD while he may be found, call ye upon him while he is near: Let the wicked forsake his way, and the unrighteous man his thoughts: and let him return unto the LORD, and he will have mercy upon him; and to our God, for he will abundantly pardon. For my thoughts are not your thoughts, neither are your ways my ways, saith the LORD. For as the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts. 
+                        - Isaiah 55:6-9 Seek ye the LORD while he may be found, call ye upon him while he is near: Let the wicked forsake his way, and the unrighteous man his thoughts: and let him return unto the LORD, and he will have mercy upon him; and to our God, for he will abundantly pardon. For my thoughts are not your thoughts, neither are your ways my ways, saith the LORD. For as the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts. 
                         - Isn't that why we come? To find something better?
                         - If you're coming to prove how good you already are, then you're here for the wrong reason. We're here because we know we're sinners and we want something better, to be something better.
                             - Do you know why the Bible says, "Be ye kind one to another?" Because you're not.
@@ -83,13 +83,14 @@ A common thing that people say is, "The King James is hard for me to understand.
             - Something I noticed was that I could read through chapters quickly, but I didn't necessarily get anything out of what I read, I didn't comprehend it or retain it.
                 - It's like I could just flow right through it without picking anything up.
         - How do you learn?
-            - Isaiah 28:10-13 (KJV) For precept must be upon precept, precept upon precept; line upon line, line upon line; here a little, and there a little: For with stammering lips and another tongue will he speak to this people. To whom he said, This is the rest wherewith ye may cause the weary to rest; and this is the refreshing: yet they would not hear. But the word of the LORD was unto them precept upon precept, precept upon precept; line upon line, line upon line; here a little, and there a little; that they might go, and fall backward, and be broken, and snared, and taken. 
+            - Isaiah 28:10-13 For precept must be upon precept, precept upon precept; line upon line, line upon line; here a little, and there a little: For with stammering lips and another tongue will he speak to this people. To whom he said, This is the rest wherewith ye may cause the weary to rest; and this is the refreshing: yet they would not hear. But the word of the LORD was unto them precept upon precept, precept upon precept; line upon line, line upon line; here a little, and there a little; that they might go, and fall backward, and be broken, and snared, and taken. 
             - Read as much as God wants you to.
                 - If that's several chapters, then read several chapters.
                 - If you can only get through a few verses, then just read and think on those few verses.
                 - "Here a little, and there a little"
                 - "Line upon line, line upon line"
 
+### An interesting fact, something amazing, and a challenge
 
 Last, I'm going to give you three things: an interesting fact, something amazing, and something to challenge you.
 
@@ -97,18 +98,17 @@ Last, I'm going to give you three things: an interesting fact, something amazing
     - If you have ever taken a look at kids' books, you've seen that they'll have a label telling you what their "reading level" is, so something like "first grade reading level," or "fourth grade reading level."
         - How does someone determine what grade-level a book is at?
             - There are various methods they use to calculate that mathematically. One is called the Flesch-Kincaid Grade Level Indicator (named after the people who came up with it).
-                - According to the FK, there are various parts of a King James Bible that are actually easier to read than the new versions.
-                    - https://av1611.org/kjv/kjv_easy.html
+                - According to the [Flesch-Kincaid](https://av1611.org/kjv/kjv_easy.html), there are various parts of a King James Bible that are actually easier to read than the new versions.
                         
 - Something amazing
     - If you remember, we mentioned the italicized words in the King James last week.
         - They are words that were not in the original language but the translators felt had to be added in order for the English to make sense.
             - The question becomes: "Are the italicized words supposed to be there? Are they inspired?"
         - First we have an Old Testament verse (Hebrew)
-            - Deuteronomy 8:3 (KJV) And he humbled thee, and suffered thee to hunger, and fed thee with manna, which thou knewest not, neither did thy fathers know; that he might make thee know that man doth not live by bread only, but by every word that proceedeth out of the mouth of the LORD doth man live. 
+            - Deuteronomy 8:3 And he humbled thee, and suffered thee to hunger, and fed thee with manna, which thou knewest not, neither did thy fathers know; that he might make thee know that man doth not live by bread only, but by every word that proceedeth out of the mouth of the LORD doth man live. 
                 - Notice the italicized word "word" - it had to be added to make the English make sense, it wasn't in the Hebrew manuscript
         - Now let's look at where that verse is quoted in the New Testament (Greek)
-            - Matthew 4:4 (KJV) But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God. 
+            - Matthew 4:4 But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God. 
                 - Notice the word "word" is not italicized. It was in the Greek manuscript.
         - Both the Old Testament verse and the New Testament verse are inspired, are they not?
 - A challenge for you
@@ -125,26 +125,28 @@ Last, I'm going to give you three things: an interesting fact, something amazing
                     - The question becomes: will you take the step of faith to read and believe your King James Bible? Will you trust God to increase you understanding, to bless your efforts, and to give you growth?
 
 
+### Resources to help you while reading your Bible
+
 I lied before, I'm going to give you one more thing: some resources that will help you.
 - Webster's 1828 dictionary
-    - You can find this online: https://webstersdictionary1828.com/
+    - You can find this online: [Webster's 1828](https://webstersdictionary1828.com/)
     - Or you can buy a physical copy
     - When you find a word you don't know in your King James Bible, this dictionary is the closest to giving you the meaning of words as they were used at the time the KJV was written.
 - Strong's Concordance
-    - Lists ever word in the King James, then gives every time it is used in the entire Bible
-    - This is fantastic tool for looking up other ways that a word is used to be able to understand it from multiple contexts or for finding more information about a subject
+    - Lists every word in the King James Bible, then gives every time it is used in the entire Bible
+    - This is fantastic tool for looking up other ways that a word is used (to be able to understand it from multiple contexts) or for finding more information about a subject
 - Way of Life Encyclopedia of the Bible and Christianity
-    - https://www.wayoflife.org/publications/books/encyclopedia.php
+    - Find it [here](https://www.wayoflife.org/publications/books/encyclopedia.php)
 - Any of Ruckman's books, commentaries, sermons, etc.
-    - You can find these at the Bible Baptist Bookstore: https://store.kjv1611.org/
+    - You can find these at the [Bible Baptist Bookstore](https://store.kjv1611.org/)
     - He also put out a study Bible that is filled with fantastic notes.
         - It is probably the best Bible on the market today
         - If you read the notes and follow the references in the margins as you go through it, you will come out with much more than you thought you would.
     - Ruckman was one of the best for making things simple and understandable.
 - SwordSearcher software
     - This is for those of you who are inclined toward using computers
-    - https://www.swordsearcher.com/
+    - Find it [here](https://www.swordsearcher.com/)
     - This software is made and put out by a Bible believing brother out in Oklahoma who has been working on it since 1994
     - This is an extremely powerful program that comes with a library unto itself
-    - Can my computer run it? https://www.swordsearcher.com/faq.html#sn-platforms
+    - [Can my computer run it?](https://www.swordsearcher.com/faq.html#sn-platforms)
             
