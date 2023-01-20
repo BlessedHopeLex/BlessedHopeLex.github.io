@@ -1,6 +1,6 @@
 ---
 sermon-title: Bible Versions 12
-google-drive-id: 
+google-drive-id: 1VXOMx31QHIpaxOq8DD0YnEc3m7ZrLWxK
 start-time-seconds: 0
 day-part: Evening
 tags: wednesday-evening bible-versions
