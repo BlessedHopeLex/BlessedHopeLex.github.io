@@ -30,6 +30,7 @@ We also have Wednesday night services starting at 7:00 PM.
 You can join us in person at:
 
 [340 Preston Ave](https://www.google.com/maps/dir//340+Preston+Ave,+Lexington,+KY+40502/@38.0355358,-84.5061253,13z/data=!4m9!4m8!1m0!1m5!1m1!1s0x8842452315fc24a7:0xe37a5b82f78d87bd!2m2!1d-84.4711059!2d38.0354734!3e0)
+
 Lexington, Kentucky 40502
 
 Or online via [Zoom](https://blessedhopelexington.com/zoom).
