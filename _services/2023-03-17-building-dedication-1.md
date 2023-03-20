@@ -1,7 +1,7 @@
 ---
 sermon-title: Building Dedication 1
 google-drive-id: 1_UnXTZ3y8O161rgk8CaFIwrFKFwQioO4
-start-time-seconds: 0
+start-time-seconds: 78
 day-part: Evening
 tags: friday-evening building-dedication
 preacher: Paul Heaton
