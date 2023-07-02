@@ -1,9 +1,9 @@
 ---
-sermon-title: Eternal Security 4
+sermon-title: She Gave Her Best
 google-drive-id: 1H3lvahGCi1V8m6KEDapLXQaljlY6JkKH
 start-time-seconds: 0
-day-part: Evening
-tags: sunday-evening eternal-security
+day-part: Morning
+tags: sunday-morning
 preacher: James Coffman
 layout: default
 ---
