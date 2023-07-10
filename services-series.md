@@ -26,7 +26,7 @@ title: Sermons by Series
 
 # {{ page.title }}
 
-{% assign skipped_tags = "wednesday-evening,sunday-evening,sunday-morning" | split: ','] %}
+{% assign skipped_tags = "wednesday-evening,friday-morning,friday-evening,saturday-morning,saturday-evening,sunday-morning,sunday-evening" | split: ','] %}
 
 ### Series
 {::options parse_block_html="true" /}
