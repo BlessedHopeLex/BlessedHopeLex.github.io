@@ -4,7 +4,7 @@ google-drive-id: 1iHkjq6TTj3F-9PIR727MglYz_sQZU0yS
 start-time-seconds: 0
 day-part: Evening
 tags: sunday-evening acts
-preacher: James Coffman
+preacher: Billy Sherrow
 layout: default
 ---
 

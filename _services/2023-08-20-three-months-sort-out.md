@@ -4,7 +4,7 @@ google-drive-id: 1i2FwwYH02n1z2QFkI6q84wAujWKVc2-l
 start-time-seconds: 0
 day-part: Morning
 tags: sunday-morning
-preacher: James Coffman
+preacher: Zack Warren
 layout: default
 ---
 

@@ -4,7 +4,7 @@ google-drive-id: 1eLTV-0BATe3YBKhVMZnl9qdXGoZt8VXJ
 start-time-seconds: 0
 day-part: Evening
 tags: sunday-evening
-preacher: James Coffman
+preacher: Kasey Cline
 layout: default
 ---
 
