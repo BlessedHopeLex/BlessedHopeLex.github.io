@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "sermon-audio"
+version = "0.1.0"
+description = ""
+authors = ["Zack Warren <warr7020@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+sermonaudio = "^6.14.3"
+mutagen = "^1.47.0"
+google-api-python-client = "^2.111.0"
+google-auth-httplib2 = "^0.2.0"
+google-auth-oauthlib = "^1.2.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
