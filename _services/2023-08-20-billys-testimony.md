@@ -1,5 +1,5 @@
 ---
-sermon-title: Billy's Musical Testimony
+sermon-title: Billy's Testimony
 google-drive-id: 1iHkjq6TTj3F-9PIR727MglYz_sQZU0yS
 start-time-seconds: 0
 day-part: Evening

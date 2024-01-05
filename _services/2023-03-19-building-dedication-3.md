@@ -1,7 +1,7 @@
 ---
 sermon-title: Building Dedication 3
 google-drive-id: 1_qdZsUr6yhvZBWwC2oho4uJ8OJLkhIIr
-start-time-seconds: 13
+start-time-seconds: 0
 day-part: Morning
 tags: sunday-morning building-dedication
 preacher: Rick Sowell

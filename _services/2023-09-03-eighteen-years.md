@@ -1,5 +1,5 @@
 ---
-sermon-title: Eighteen Years to Sort It Out / ABC's
+sermon-title: Eighteen Years to Sort It Out
 google-drive-id: 1jFnDa2CY3XRE85k2CHEIZ-6Wocje4DVy
 start-time-seconds: 0
 day-part: Evening

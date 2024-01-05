@@ -1,5 +1,5 @@
 ---
-sermon-title: Sowing and Reaping (pt. 4)
+sermon-title: Sowing and Reaping 4
 google-drive-id: 1q6stwX83VaCNAGQAFyChbAXAwjSMNB-h
 start-time-seconds: 0
 day-part: Evening

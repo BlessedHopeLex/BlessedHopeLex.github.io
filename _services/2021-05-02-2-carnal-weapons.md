@@ -1,7 +1,7 @@
 ---
 sermon-title: Carnal Weapons
 google-drive-id: 1r2tzSeu17GYmJebS-EtY7vaVeiOHmakl
-start-time-seconds: 117
+start-time-seconds: 0
 day-part: Evening
 tags: sunday-evening
 preacher: Zack Warren

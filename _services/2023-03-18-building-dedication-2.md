@@ -1,7 +1,7 @@
 ---
 sermon-title: Building Dedication 2
 google-drive-id: 1_g-q3PVnKdzcSIwyh2zcokUGStQjfjZE
-start-time-seconds: 36
+start-time-seconds: 0
 day-part: Evening
 tags: saturday-evening building-dedication
 preacher: Dennis Miles
