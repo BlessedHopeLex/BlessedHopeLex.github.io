@@ -76,6 +76,7 @@ def run(sa_api_access_key, sa_broadcaster_id, google_drive_access_key):
                     series_name,
                     google_drive_audio_id,
                     start_time_seconds,
+                    scripture,
                 ) = get_sermon_data(file)
 
             if start_time_seconds and int(start_time_seconds) > 0:
@@ -97,6 +98,7 @@ def run(sa_api_access_key, sa_broadcaster_id, google_drive_access_key):
                 sa_broadcaster_id,
                 sermon_title,
                 preacher,
+                scripture,
                 day_part_tag,
                 series_name,
                 google_drive_audio_id,
@@ -117,6 +119,7 @@ def get_sermon_data(file):
     preacher = None  # "James Coffman"
     day_part_tag = None
     series_tag = None
+    scripture = None
 
     opening_metadata_hyphens_found = False
     prev_line = "Start of file"
@@ -130,7 +133,7 @@ def get_sermon_data(file):
                     continue
                 else:
                     break
-            metadata_tag, value = line.split(":")
+            metadata_tag, value = line.split(":", maxsplit=1)
             value = value.strip()
             if metadata_tag == "sermon-title":
                 sermon_title = value
@@ -142,6 +145,8 @@ def get_sermon_data(file):
                 tags = value
             elif metadata_tag == "preacher":
                 preacher = value
+            elif metadata_tag == "scripture":
+                scripture = value
 
         for tag in tags.split(" "):
             if tag in day_part_tags_map.keys():
@@ -158,6 +163,7 @@ def get_sermon_data(file):
         series_tag,
         google_drive_id,
         start_time_seconds,
+        scripture,
     )
 
 
@@ -167,6 +173,7 @@ def process_sermon(
     sa_broadcaster_id,
     sermon_title,
     preacher,
+    scripture,
     day_part_tag,
     series_name,
     google_drive_audio_id,
@@ -209,7 +216,7 @@ def process_sermon(
             language_code="en",
             keywords=keywords,
             display_title=None,
-            bible_text=None,
+            bible_text=scripture,
             more_info_text=None,
         )
     except BroadcasterAPIError as e:
