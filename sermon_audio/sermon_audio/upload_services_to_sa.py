@@ -45,7 +45,7 @@ skip_preachers = [
     # No response when I asked if it is OK to upload his sermons
     "Billy Sherrow",
 ]
-no_earlier_than = datetime.strptime("2024-01-23", "%Y-%m-%d")  # 2020-04-27
+no_earlier_than = datetime.strptime("2024-01-27", "%Y-%m-%d")  # 2020-04-27
 
 path_to_services_files = "C:\\Users\\warr7\\repos\\blessedhopelex.github.io\\_services"
 path_to_audio_file = "C:\\Users\\warr7\\Downloads"
