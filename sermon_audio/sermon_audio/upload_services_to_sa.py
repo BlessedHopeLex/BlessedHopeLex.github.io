@@ -31,20 +31,13 @@ day_part_tags_map = {
 
 excluded_series = []
 skip_sermons = [
-    # Already added manually
-    "David Brainard",
-    "William Carey",
-    "David Livingstone",
-    "Emmanuel",
     # Not sure about
     "Brother Kline - Missionary to Ukraine",
     # Contains google-drive-id-2, so has two audio files that need to be combined manually
     "Acts 12",
 ]
-skip_preachers = [
-    # No response when I asked if it is OK to upload his sermons
-    "Billy Sherrow",
-]
+skip_preachers = []
+only_include_preachers = []
 no_earlier_than = datetime.strptime("2024-01-27", "%Y-%m-%d")  # 2020-04-27
 
 path_to_services_files = "C:\\Users\\warr7\\repos\\blessedhopelex.github.io\\_services"
@@ -62,9 +55,6 @@ def run(sa_api_access_key, sa_broadcaster_id):
         for os_filename in os.listdir(path_to_services_files):
             filename = os.fsdecode(os_filename)
             date_object = get_date_from_filename(filename)
-            if date_object.date() <= no_earlier_than.date():
-                print(f"{filename} is before earliest date: {date_object.date()}")
-                continue
 
             with open(
                 os.path.join(path_to_services_files, filename), "r", encoding="utf-8"
@@ -80,18 +70,31 @@ def run(sa_api_access_key, sa_broadcaster_id):
                     scripture,
                 ) = get_sermon_data(file)
 
+            if only_include_preachers and preacher not in only_include_preachers:
+                continue
+            
+            if sermon_title in skip_sermons or preacher in skip_preachers:
+                continue
+
+            if not google_drive_audio_id:
+                print(f"{filename} does not include a google audio id")
+                continue
+
+            if date_object.date() <= no_earlier_than.date():
+                print(f"{filename} is before earliest date: {date_object.date()}")
+                continue
+
             if start_time_seconds and int(start_time_seconds) > 0:
                 print(
                     f"{filename} needs to be trimmed: start time = {start_time_seconds}"
                 )
-            if sermon_title in skip_sermons or preacher in skip_preachers or not google_drive_audio_id:
-                continue
 
             tried = tried + 1
             if tried > tryMax:
                 break
 
-            print(date_object.date())
+            # print(date_object.date())
+            print(f"{filename} - {preacher}")
             e.submit(
                 process_sermon,
                 date_object,
