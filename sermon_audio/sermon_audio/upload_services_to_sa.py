@@ -76,6 +76,9 @@ def run(sa_api_access_key, sa_broadcaster_id):
             if sermon_title in skip_sermons or preacher in skip_preachers:
                 continue
 
+            if series_name in excluded_series:
+                continue
+
             if not google_drive_audio_id:
                 print(f"{filename} does not include a google audio id")
                 continue
