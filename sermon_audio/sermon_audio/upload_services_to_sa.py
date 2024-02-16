@@ -38,7 +38,7 @@ skip_sermons = [
 ]
 skip_preachers = []
 only_include_preachers = []
-no_earlier_than = datetime.strptime("2024-02-03", "%Y-%m-%d")  # 2020-04-27
+no_earlier_than = datetime.strptime("2024-02-10", "%Y-%m-%d")  # 2020-04-27
 
 path_to_services_files = "C:\\Users\\warr7\\repos\\blessedhopelex.github.io\\_services"
 path_to_audio_file = "C:\\Users\\warr7\\Downloads"
