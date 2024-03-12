@@ -22,11 +22,16 @@ from googleapiclient.http import MediaIoBaseDownload
 from google_drive import init_google_drive
 
 
-
 day_part_tags_map = {
     "wednesday-evening": SermonEventType.MIDWEEK_SERVICE,
     "sunday-morning": SermonEventType.SUNDAY_AM,
     "sunday-evening": SermonEventType.SUNDAY_PM,
+}
+
+services_sheet_day_part_tags_map = {
+    "Wednesday Evening": SermonEventType.MIDWEEK_SERVICE,
+    "Sunday Morning": SermonEventType.SUNDAY_AM,
+    "Sunday Evening": SermonEventType.SUNDAY_PM,
 }
 
 excluded_series = []
@@ -72,7 +77,7 @@ def run(sa_api_access_key, sa_broadcaster_id):
 
             if only_include_preachers and preacher not in only_include_preachers:
                 continue
-            
+
             if sermon_title in skip_sermons or preacher in skip_preachers:
                 continue
 
@@ -241,6 +246,131 @@ def process_sermon(
     cleanup(audio_filepath)
 
 
+def process_service(
+    date_object,
+    sa_api_access_key,
+    sa_broadcaster_id,
+    sermon_title,
+    preacher,
+    scripture,
+    day_part_tag,
+    series_name,
+    google_drive_audio_id,
+    sheets_service,
+    update_uploaded_date,
+    update_audio_deleted,
+    rowNum,
+):
+    # You must set your API key before making any requests
+    sermonaudio.set_api_key(sa_api_access_key)
+    broadcaster = Node.get_broadcaster(sa_broadcaster_id)
+    if not broadcaster:
+        print("Broadcaster ID is incorrect")
+        return
+
+    # Access the google drive api to download the audio file
+    #       Set up api key for Blessed Hope's google drive (like for personal db api)
+    #           Will need to be a machine-to-machine key, because I won't be logging in via UI
+    #           Also grab personal db api's google_sheets.py implementation for accessing the Drive API
+    audio_filepath = download_google_drive_audio(google_drive_audio_id)
+    if audio_filepath is None:
+        return
+
+    # If it is a series (part of tags, excluding some values), use SA API to create the series
+    series = handle_create_series(series_name, sa_broadcaster_id)
+
+    # Get hashtags/keywords
+    keywords = get_keywords(series_name)
+
+    # Create the sermon
+    sermon = None
+    try:
+        sermon = Broadcaster.create_or_update_sermon(
+            sermon_id=None,
+            speaker_name=preacher,
+            accept_copyright=True,
+            full_title=sermon_title,
+            preach_date=date_object,
+            publish_timestamp=datetime.now(),
+            event_type=services_sheet_day_part_tags_map.get(
+                day_part_tag, SermonEventType.SPECIAL_MEETING
+            ),
+            subtitle=None,
+            language_code="en",
+            keywords=keywords,
+            display_title=None,
+            bible_text=scripture,
+            more_info_text=None,
+        )
+    except BroadcasterAPIError as e:
+        print(f"Sermon: create didn't work: {e}")
+
+    # Set the series if applicable
+    if series:
+        move_sermon_to_series(sermon.sermon_id, series.series_id)
+
+    # Upload the media
+    if sermon and audio_filepath:
+        upload_file(
+            sermon.sermon_id,
+            audio_filepath,
+            sheets_service,
+            update_uploaded_date,
+            update_audio_deleted,
+            google_drive_audio_id,
+            rowNum,
+        )
+
+    # Cleanup
+    cleanup(audio_filepath)
+
+
+def process_services(
+    services,
+    sa_api_access_key,
+    sa_broadcaster_id,
+    sheets_service,
+    update_uploaded_date,
+    update_audio_deleted,
+):
+    tryMax = 50
+    tried = 0
+    max_workers = 5
+
+    # Pull in each file from root/_services folder
+    with ProcessPoolExecutor(max_workers=max_workers) as e:
+        for service in services:
+            tried = tried + 1
+            if tried > tryMax:
+                break
+            (
+                date_object,
+                sermon_title,
+                scripture,
+                preacher,
+                series_name,
+                google_drive_audio_id,
+                day_part_tag,
+                rowNum,
+            ) = service
+            e.submit(
+                process_service,
+                date_object,
+                sa_api_access_key,
+                sa_broadcaster_id,
+                sermon_title,
+                preacher,
+                scripture,
+                day_part_tag,
+                series_name,
+                google_drive_audio_id,
+                sheets_service,
+                update_uploaded_date,
+                update_audio_deleted,
+                rowNum,
+            )
+
+
 def download_google_drive_audio(google_drive_audio_id):
     filepath = None
     with init_google_drive() as google_drive:
@@ -334,7 +464,15 @@ def move_sermon_to_series(sermon_id, series_id):
         print(f"Series: move sermon didn't work: {e}")
 
 
-def upload_file(sermon_id, filepath):
+def upload_file(
+    sermon_id,
+    filepath,
+    sheets_service=None,
+    update_uploaded_date=None,
+    update_audio_deleted=None,
+    google_drive_audio_id=None,
+    rowNum=None,
+):
     try:
         # Broadcaster.upload_audio()
         Broadcaster._upload_media(
@@ -342,6 +480,19 @@ def upload_file(sermon_id, filepath):
             sermon_id=sermon_id,
             path=filepath,
         )
+
+        if update_uploaded_date and rowNum:
+            update_uploaded_date(sheets_service, date.today(), rowNum)
+        
+        # NOTE: Google API won't allow service account to delete because it isn't the file owner
+        # if google_drive_audio_id:
+        #     with init_google_drive() as google_drive:
+        #         body_value = {'trashed': True}
+        #         response = google_drive.files().update(fileId=google_drive_audio_id, body=body_value).execute()
+        #         if response.get("trashed"):
+        #             if update_audio_deleted and rowNum:
+        #                 update_audio_deleted(sheets_service, rowNum)
+
     except BroadcasterAPIError as e:
         print(f"Upload Media: didn't work: {e}")
 

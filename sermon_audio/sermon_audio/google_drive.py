@@ -7,8 +7,11 @@ import requests
 
 
 SCOPES = [
+    'https://www.googleapis.com/auth/spreadsheets',
     'https://www.googleapis.com/auth/drive'
 ]
+SERVICES_SHEET_ID = "18s-dXHcgDaquz5crSvdtnOHkMcxEFITY6IW-ocVSos4"
+SERVICES_SHEET_NAME = "UploadRecord"
 
 
 def get_google_creds():
@@ -24,3 +27,10 @@ def init_google_drive():
     drive_service = build('drive', 'v3', credentials=credentials)
 
     return drive_service
+    
+
+def init_google_sheets():
+    credentials = get_google_creds()
+    spreadsheet_service = build('sheets', 'v4', credentials=credentials)
+
+    return spreadsheet_service
