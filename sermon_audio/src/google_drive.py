@@ -16,7 +16,7 @@ SERVICES_SHEET_NAME = "UploadRecord"
 
 def get_google_creds():
     dir_path = os.path.dirname(os.path.realpath(__file__))
-    path = os.path.join(dir_path, "credentials.json")
+    path = os.path.join(dir_path, os.getenv("CREDS_FOLDER"), "credentials.json")
 
     credentials = service_account.Credentials.from_service_account_file(path, scopes=SCOPES)
     return credentials

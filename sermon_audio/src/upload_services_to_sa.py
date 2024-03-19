@@ -5,9 +5,9 @@ import argparse
 from datetime import date, datetime
 from concurrent.futures import ThreadPoolExecutor, ProcessPoolExecutor
 
+from dotenv import load_dotenv
+
 import sermonaudio
-import mutagen
-from mutagen.mp4 import MP4
 
 from sermonaudio.broadcaster.requests import (
     Broadcaster,
@@ -46,7 +46,7 @@ only_include_preachers = []
 no_earlier_than = datetime.strptime("2024-02-27", "%Y-%m-%d")  # 2020-04-27
 
 path_to_services_files = "C:\\Users\\warr7\\repos\\blessedhopelex.github.io\\_services"
-path_to_audio_file = "C:\\Users\\warr7\\Downloads"
+path_to_audio_file = os.getenv("DOWNLOAD_LOCATION")
 
 
 def run(sa_api_access_key, sa_broadcaster_id):
@@ -413,16 +413,6 @@ def download_google_drive_audio(google_drive_audio_id):
     return filepath
 
 
-def rename_file(old_filepath, new_filename):
-    # NOTE: Not needed
-    # Alter filename for date and event category:
-    # yyyymmdd-[event category].mp3
-    #   Example: 20090421-Sunday AM.mp3 (Date: April 21, 2009)
-    new_filepath = f"{path_to_audio_file}\\{new_filename}"
-    os.rename(old_filepath, new_filepath)
-    return new_filepath
-
-
 def handle_create_series(series_name, sa_broadcaster_id):
     series = None
     if series_name:
@@ -437,24 +427,6 @@ def handle_create_series(series_name, sa_broadcaster_id):
         except BroadcasterAPIError as e:
             print(f"Series: create didn't work: {e}")
     return series
-
-
-def set_ID3_tags(filepath, title, preacher, series_name):
-    # NOTE: Not needed
-    # Alter the file's metadata:
-    #   Title -> Sermon Title
-    #   Artist -> Speaker (must match an existing speaker name)
-    #   Album -> Bible Reference (optional)
-    #   Comment -> Series (optional)
-    with open(filepath, "r+b") as file:
-        m4a_file = MP4(file)
-        if not m4a_file.tags:
-            m4a_file.add_tags()
-        file_tags = m4a_file.tags
-        file_tags["Title"] = title
-        file_tags["Artist"] = preacher
-        file_tags["Comment"] = series_name
-        m4a_file.save(file)
 
 
 def move_sermon_to_series(sermon_id, series_id):
@@ -527,16 +499,17 @@ def cleanup(filepath):
 #       x Download, trim audio, re-upload
 
 
-if __name__ == "__main__":
-    # Take API access keys for SA and Google as command line args
-    #       Later on I may change to include it as a GitHub secret and have an action run this
-    parser = argparse.ArgumentParser(
-        prog="Blessed Hope - SermonAudio Importer",
-        description="Imports old sermons into SermonAudio",
-    )
-    parser.add_argument("-s", "--sermonaudio", help="Your SermonAudio API key")
-    parser.add_argument("-b", "--broadcasterid", help="Your SermonAudio Broadcaster ID")
+# if __name__ == "__main__":
+#     load_dotenv()
+#     # Take API access keys for SA and Google as command line args
+#     #       Later on I may change to include it as a GitHub secret and have an action run this
+#     parser = argparse.ArgumentParser(
+#         prog="Blessed Hope - SermonAudio Importer",
+#         description="Imports old sermons into SermonAudio",
+#     )
+#     parser.add_argument("-s", "--sermonaudio", help="Your SermonAudio API key")
+#     parser.add_argument("-b", "--broadcasterid", help="Your SermonAudio Broadcaster ID")
 
-    args = parser.parse_args()
-    print(args.sermonaudio, args.broadcasterid)
-    run(args.sermonaudio, args.broadcasterid)
+#     args = parser.parse_args()
+#     print(args.sermonaudio, args.broadcasterid)
+#     run(args.sermonaudio, args.broadcasterid)

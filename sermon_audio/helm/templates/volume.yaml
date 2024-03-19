@@ -1,0 +1,32 @@
+kind: PersistentVolume
+apiVersion: v1
+metadata:
+  name: sermonaudio-pv-volume
+  namespace: sermonaudio
+  labels:
+    type: nfs
+    app: sermonaudio
+spec:
+  storageClassName: manual
+  capacity:
+    storage: 500Mi
+  accessModes:
+    - ReadWriteMany
+  nfs:
+    server: 192.168.50.15
+    path: "/mnt/usb/scratch/data/sermonaudio"
+---
+kind: PersistentVolumeClaim
+apiVersion: v1
+metadata:
+  name: sermonaudio-pv-claim
+  namespace: sermonaudio
+  labels:
+    app: sermonaudio
+spec:
+  storageClassName: manual
+  accessModes:
+    - ReadWriteMany
+  resources:
+    requests:
+      storage: 500Mi

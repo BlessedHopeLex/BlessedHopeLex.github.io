@@ -1,0 +1,36 @@
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: sermonaudio-cronjob
+  namespace: sermonaudio
+spec:
+  jobTemplate:
+    spec:
+      template:
+        spec:
+          volumes:
+            - name: sermonaudio-storage
+              persistentVolumeClaim:
+                claimName: sermonaudio-pv-claim
+          containers:
+          - image: "{{ .Values.image.repository }}:{{ .Values.image.tag | default .Chart.AppVersion }}"
+            imagePullPolicy: {{ .Values.image.pullPolicy }}
+            name: sermonaudio-cronjob
+            resources: {}
+            volumeMounts:
+            - mountPath: "/src/downloads"
+              name: sermonaudio-storage
+            env:
+            - name: SA_API_ACCESS_KEY
+              value: "{{ .Values.sermon_audio.api_access_key }}"
+            - name: SA_BROADCASTER_ID
+              value: "{{ .Values.sermon_audio.broadcaster_id }}"
+            - name: DOWNLOAD_LOCATION
+              value: "{{ .Values.sermon_audio.download_location }}"
+            - name: CREDS_FOLDER
+              value: "{{ .Values.sermon_audio.creds_folder }}"
+          restartPolicy: Never
+  startingDeadlineSeconds: {{ .Values.startingDeadlineSeconds }}
+  suspend: {{ .Values.suspend }}
+  concurrencyPolicy: "{{ .Values.concurrencyPolicy }}"
+  schedule: "{{ .Values.schedule }}"
