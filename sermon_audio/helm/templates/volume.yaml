@@ -13,7 +13,7 @@ spec:
   accessModes:
     - ReadWriteMany
   nfs:
-    server: 192.168.50.15
+    server: 192.168.50.11
     path: "/mnt/usb/scratch/data/sermonaudio"
 ---
 kind: PersistentVolumeClaim

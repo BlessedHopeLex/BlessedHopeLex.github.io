@@ -5,7 +5,7 @@ import argparse
 from datetime import date, datetime
 from concurrent.futures import ThreadPoolExecutor, ProcessPoolExecutor
 
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 
 import sermonaudio
 
@@ -46,7 +46,7 @@ only_include_preachers = []
 no_earlier_than = datetime.strptime("2024-02-27", "%Y-%m-%d")  # 2020-04-27
 
 path_to_services_files = "C:\\Users\\warr7\\repos\\blessedhopelex.github.io\\_services"
-path_to_audio_file = os.getenv("DOWNLOAD_LOCATION")
+path_to_audio_file = "/src/downloads" # os.getenv("DOWNLOAD_LOCATION")
 
 
 def run(sa_api_access_key, sa_broadcaster_id):

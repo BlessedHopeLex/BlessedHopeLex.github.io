@@ -16,6 +16,13 @@ spec:
           - image: "{{ .Values.image.repository }}:{{ .Values.image.tag | default .Chart.AppVersion }}"
             imagePullPolicy: {{ .Values.image.pullPolicy }}
             name: sermonaudio-cronjob
+            command:
+              - python
+              - process_services_gsheet.py
+              - -s
+              - {{ .Values.sermon_audio.api_access_key }}
+              - -b
+              - {{ .Values.sermon_audio.broadcaster_id }}
             resources: {}
             volumeMounts:
             - mountPath: "/src/downloads"

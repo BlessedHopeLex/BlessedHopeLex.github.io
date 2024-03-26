@@ -10,4 +10,4 @@ COPY ./src/upload_services_to_sa.py /src/
 
 RUN pip install --no-cache-dir --upgrade -r /src/requirements.txt
 
-CMD ["python", "process_services_gsheet.py"]
+# CMD ["python", "process_services_gsheet.py"]

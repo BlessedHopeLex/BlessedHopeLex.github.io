@@ -10,7 +10,7 @@ image:
   # Overrides the image tag whose default is the chart appVersion.
   tag: "rpi"
 
-schedule: "0 0 * * *" # Run at midnight every day: https://crontab.guru/#0_0_*_*_*
+schedule: "0 23 * * *" # Run at midnight every day: https://crontab.guru/#0_0_*_*_*
 startingDeadlineSeconds: 3600 # 1 hour
 concurrencyPolicy: Forbid
 suspend: False

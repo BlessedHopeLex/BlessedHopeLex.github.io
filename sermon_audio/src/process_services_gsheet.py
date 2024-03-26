@@ -2,7 +2,7 @@ import os
 import argparse
 from datetime import date, datetime
 
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 
 from google_drive import (
     init_google_drive,
@@ -173,19 +173,19 @@ def update_audio_deleted(sheets_service, rowNum):
 
 
 if __name__ == "__main__":
-    load_dotenv()
-    print(os.getenv("SA_API_ACCESS_KEY"), os.getenv("SA_BROADCASTER_ID"))
-    run(os.getenv("SA_API_ACCESS_KEY"), os.getenv("SA_BROADCASTER_ID"))
+    # load_dotenv()
+    # print(os.getenv("SA_API_ACCESS_KEY"), os.getenv("SA_BROADCASTER_ID"))
+    # run(os.getenv("SA_API_ACCESS_KEY"), os.getenv("SA_BROADCASTER_ID"))
 
-    # # Take API access keys for SA and Google as command line args
-    # #       Later on I may change to include it as a GitHub secret and have an action run this
-    # parser = argparse.ArgumentParser(
-    #     prog="Blessed Hope - SermonAudio Importer",
-    #     description="Imports old sermons into SermonAudio",
-    # )
-    # parser.add_argument("-s", "--sermonaudio", help="Your SermonAudio API key")
-    # parser.add_argument("-b", "--broadcasterid", help="Your SermonAudio Broadcaster ID")
+    # Take API access keys for SA and Google as command line args
+    #       Later on I may change to include it as a GitHub secret and have an action run this
+    parser = argparse.ArgumentParser(
+        prog="Blessed Hope - SermonAudio Importer",
+        description="Imports old sermons into SermonAudio",
+    )
+    parser.add_argument("-s", "--sermonaudio", help="Your SermonAudio API key")
+    parser.add_argument("-b", "--broadcasterid", help="Your SermonAudio Broadcaster ID")
 
-    # args = parser.parse_args()
-    # print(args.sermonaudio, args.broadcasterid)
-    # run(args.sermonaudio, args.broadcasterid)
+    args = parser.parse_args()
+    print(args.sermonaudio, args.broadcasterid)
+    run(args.sermonaudio, args.broadcasterid)
