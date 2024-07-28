@@ -4,6 +4,10 @@ metadata:
   name: sermonaudio-cronjob
   namespace: sermonaudio
 spec:
+  template:
+    metadata:
+      annotations:
+        rollme: {{ randAlphaNum 5 | quote }} # ensures this is always recreated on helm upgrade
   jobTemplate:
     spec:
       template:
